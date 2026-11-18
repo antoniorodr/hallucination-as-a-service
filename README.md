@@ -13,7 +13,7 @@ Built for developers, misinformation, and confidently wrong answers.
 **Base URL**
 
 ```
-https://haas.example.com
+https://haas.antoniorodriguez.no/hallucination
 ```
 
 **Method:** `GET`

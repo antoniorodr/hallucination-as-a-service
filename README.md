@@ -69,6 +69,58 @@ GET /hallucination?lang=no&type=cosmic
 }
 ```
 
+## 🛠️ Self-Hosting
+
+Want to run it yourself? It’s lightweight and simple.
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/antoniorodr/hallucination-as-a-service
+cd hallucination-as-a-service
+```
+
+### Option A: Docker/Podman (recommended)
+
+Requires [Docker](https://docs.docker.com/get-docker/) or [Podman](https://podman.io/). pnpm is installed inside the image, so you don't need it on your machine.
+
+```bash
+docker build -t haas .
+docker run -p 3000:3000 haas
+```
+
+Change `docker` to `podman` if you are using Podman.
+
+### Option B: Without Docker
+
+Requires [Node.js](https://nodejs.org) 24+ and [pnpm](https://pnpm.io). Check that pnpm is installed:
+
+```bash
+pnpm --version
+```
+
+If it's missing, [install it](https://pnpm.io).
+
+Then install the dependencies and start the server:
+
+```bash
+pnpm install
+pnpm start
+```
+
+The API will be live at:
+```
+http://localhost:3000/hallucination
+```
+
+You can also change the port using an environment variable:
+```bash
+PORT=5000 pnpm start
+```
+
+### Behind a reverse proxy
+
+The app trusts one proxy (`trust proxy` is `1`) so the rate limit uses the real client IP. If you run it behind more than one proxy, adjust that value in `index.ts`.
+
 ## ❤️ Do you like my work?
 
 If you find the project useful, you can support the author here:

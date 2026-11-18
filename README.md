@@ -17,7 +17,9 @@ https://haas.example.com
 ```
 
 **Method:** `GET`
+
 **Rate Limit:** `10 requests per minute`.
+
 **Query Parameters:**
 - `lang` (optional): Specify the language of the excuse. Supported values are `en` (English) and `no` (Norwegian). Defaults to `en`.
 - `type` (optional): Specify the type of excuse. If not provided, a random excuse from any type will be returned.

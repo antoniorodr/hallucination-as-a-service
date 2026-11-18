@@ -1,0 +1,29 @@
+{
+  "name": "hallucination-as-a-service",
+  "version": "1.0.0",
+  "description": "An API that generates random excuses explaining why the AI couldn’t complete the task.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "keywords": [],
+  "author": "Antonio Rodriguez",
+  "license": "MIT",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.21.0",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.21.0",
+  "type": "module",
+  "dependencies": {
+    "@express-rate-limit/tsconfig": "^1.0.5",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.4"
+  }
+}

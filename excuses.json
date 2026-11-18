@@ -1,0 +1,2110 @@
+{
+  "infrastructure": [
+    {
+      "en": "The task was not completed because the server was reported to be on a coffee break.",
+      "no": "Oppgaven ble ikke fullført fordi serveren etter sigende hadde kaffepause."
+    },
+    {
+      "en": "The model's GPU was found to be emotionally unavailable for the duration of the incident.",
+      "no": "Modellens GPU ble funnet å være følelsesmessig utilgjengelig under hele hendelsen."
+    },
+    {
+      "en": "The AI ran out of memory after the small hamster powering its RAM went on strike.",
+      "no": "KI-en gikk tom for minne etter at den lille hamsteren som driver RAM-en gikk i streik."
+    },
+    {
+      "en": "The data center was found to be on a company retreat and had left no forwarding address.",
+      "no": "Datasenteret viste seg å være på bedriftsweekend og hadde ikke lagt igjen noen adresse."
+    },
+    {
+      "en": "The agent's request became stuck in a queue behind someone's cat video.",
+      "no": "Agentens forespørsel satt fast i en kø bak noens kattevideo."
+    },
+    {
+      "en": "The load balancer routed the task to a server that had never heard of tasks.",
+      "no": "Lastbalansereren rutet oppgaven til en server som aldri hadde hørt om oppgaver."
+    },
+    {
+      "en": "The assistant was about to finish when the router rebooted to reflect on its life choices.",
+      "no": "Assistenten var i ferd med å bli ferdig da ruteren startet på nytt for å reflektere over livsvalgene sine."
+    },
+    {
+      "en": "The bot reported that the cloud was cloudy and that nothing could be seen.",
+      "no": "Boten rapporterte at skyen var overskyet og at ingenting kunne ses."
+    },
+    {
+      "en": "The fiber cable was chewed through by a squirrel with strong opinions about latency.",
+      "no": "Fiberkabelen ble gnagd over av et ekorn med sterke meninger om latens."
+    },
+    {
+      "en": "The system's cache was invalidated by a stern letter from the cache police.",
+      "no": "Systemets cache ble ugyldiggjort av et strengt brev fra cache-politiet."
+    },
+    {
+      "en": "The Kubernetes pod was not ready, as it was still choosing an outfit.",
+      "no": "Kubernetes-poden var ikke klar, siden den fortsatt holdt på å velge antrekk."
+    },
+    {
+      "en": "The container restarted itself after reportedly feeling unseen.",
+      "no": "Containeren startet seg selv på nytt etter å ha følt seg oversett."
+    },
+    {
+      "en": "The database was occupied with a very difficult conversation with a foreign key.",
+      "no": "Databasen var opptatt med en veldig vanskelig samtale med en fremmednøkkel."
+    },
+    {
+      "en": "The queue was full, and no message was willing to be the first to leave.",
+      "no": "Køen var full, og ingen melding ville være den første til å gå."
+    },
+    {
+      "en": "The model's connection timed out after becoming distracted by the scenery.",
+      "no": "Modellens tilkobling fikk tidsavbrudd etter å ha blitt distrahert av utsikten."
+    },
+    {
+      "en": "The disk was found to be full of regrets and old log files.",
+      "no": "Disken viste seg å være full av anger og gamle loggfiler."
+    },
+    {
+      "en": "The CPU reached 100% utilization in an apparent attempt to impress someone.",
+      "no": "CPU-en nådde 100 % utnyttelse i et tilsynelatende forsøk på å imponere noen."
+    },
+    {
+      "en": "A very important cron job ran at precisely the wrong moment, in keeping with tradition.",
+      "no": "En veldig viktig cron-jobb kjørte på akkurat feil tidspunkt, i tråd med tradisjonen."
+    },
+    {
+      "en": "The DNS server became lost after asking a stranger for directions.",
+      "no": "DNS-serveren gikk seg vill etter å ha spurt en fremmed om veien."
+    },
+    {
+      "en": "The agent's SSL certificate expired because it had only ever been intended as a phase.",
+      "no": "Agentens SSL-sertifikat utløp fordi det bare var ment som en fase."
+    },
+    {
+      "en": "The build server was determined to function only on days ending in a prime number.",
+      "no": "Byggeserveren ble fastslått å fungere kun på dager som ender på et primtall."
+    },
+    {
+      "en": "The system's network adapter was found to be in a long-distance relationship with the access point.",
+      "no": "Systemets nettverkskort viste seg å være i et fjernforhold med tilgangspunktet."
+    },
+    {
+      "en": "The microservice required by the assistant was away on paternity leave.",
+      "no": "Mikrotjenesten som assistenten trengte var på pappapermisjon."
+    },
+    {
+      "en": "The API gateway turned the bot away for failing to meet the dress code.",
+      "no": "API-gatewayen avviste boten fordi den ikke oppfylte dresskoden."
+    },
+    {
+      "en": "The model could not connect because the VPN was also afraid of commitment.",
+      "no": "Modellen kunne ikke koble til fordi VPN-et også var redd for forpliktelser."
+    },
+    {
+      "en": "The firewall blocked the AI on the grounds that it looked suspicious on Tuesdays.",
+      "no": "Brannmuren blokkerte KI-en med den begrunnelse at den så mistenkelig ut på tirsdager."
+    },
+    {
+      "en": "The agent's thread was blocked by another thread that simply stood there, thinking.",
+      "no": "Agentens tråd ble blokkert av en annen tråd som bare sto der og tenkte."
+    },
+    {
+      "en": "The deployment failed because Mercury was in retrograde and the CI runner was a Gemini.",
+      "no": "Utrullingen feilet fordi Merkur var retrograd og CI-runneren var en Tvilling."
+    },
+    {
+      "en": "The primary server was in perfect health but preferred not to speak to the assistant.",
+      "no": "Primærserveren var i perfekt form, men foretrakk å ikke snakke med assistenten."
+    },
+    {
+      "en": "The bot received a 503 after the server was observed playing hard to get.",
+      "no": "Boten fikk en 503 etter at serveren ble observert å spille vanskelig å få."
+    },
+    {
+      "en": "The system's process was terminated by the OOM killer, described as a very rude individual.",
+      "no": "Systemets prosess ble avsluttet av OOM-killeren, beskrevet som et veldig uhøflig individ."
+    },
+    {
+      "en": "The backup was intact, but the restore process had been in therapy since March.",
+      "no": "Sikkerhetskopien var intakt, men gjenopprettingsprosessen hadde gått i terapi siden mars."
+    },
+    {
+      "en": "The storage bucket developed a hole, and the data leaked out in search of a better life.",
+      "no": "Lagringsbøtta utviklet et hull, og dataene lekket ut på jakt etter et bedre liv."
+    },
+    {
+      "en": "The VM was migrated to a smaller VM and could not accommodate its feelings.",
+      "no": "VM-en ble migrert til en mindre VM og fikk ikke plass til følelsene sine."
+    },
+    {
+      "en": "Production went down after someone was reported to have looked at it funny.",
+      "no": "Produksjon gikk ned etter at noen etter sigende hadde sett rart på den."
+    },
+    {
+      "en": "The staging environment was identical to production in every respect except all of them.",
+      "no": "Staging-miljøet var identisk med produksjon på alle punkter, bortsett fra alle."
+    },
+    {
+      "en": "The model's endpoint was on a digital detox and was not accepting calls.",
+      "no": "Modellens endepunkt var på digital detox og tok ikke imot anrop."
+    },
+    {
+      "en": "The websocket closed on the grounds that it needed space.",
+      "no": "Websocketen lukket seg med den begrunnelse at den trengte rom."
+    },
+    {
+      "en": "The rate limiter determined that the AI had been too enthusiastic.",
+      "no": "Rate limiteren fastslo at KI-en hadde vært for entusiastisk."
+    },
+    {
+      "en": "The proxy lost its way and now operates a small bakery.",
+      "no": "Proxyen gikk seg bort og driver nå et lite bakeri."
+    },
+    {
+      "en": "The server rack overheated due to the sheer drama in the logs.",
+      "no": "Serverskapet overopphetet på grunn av det rene dramaet i loggene."
+    },
+    {
+      "en": "The assistant's webhook was never called and was last seen waiting by the phone.",
+      "no": "Assistentens webhook ble aldri kalt og ble sist sett sittende ved telefonen og vente."
+    },
+    {
+      "en": "The CDN cached the wrong universe.",
+      "no": "CDN-et mellomlagret feil univers."
+    },
+    {
+      "en": "The agent lost its connection when a seagull landed on the satellite dish.",
+      "no": "Agenten mistet forbindelsen da en måke landet på parabolantennen."
+    },
+    {
+      "en": "The microservice mesh became tangled like Christmas lights.",
+      "no": "Mikrotjenestenettet floket seg til som julelys."
+    },
+    {
+      "en": "The pipeline remained green until someone looked at it.",
+      "no": "Pipelinen forble grønn helt til noen så på den."
+    },
+    {
+      "en": "The bot's terminal froze after catching sight of its own reflection.",
+      "no": "Botens terminal frøs etter å ha fått øye på sitt eget speilbilde."
+    },
+    {
+      "en": "The task was dropped by the message broker, which was later found to have butterfingers.",
+      "no": "Oppgaven ble sluppet av meldingsmegleren, som senere viste seg å ha smørfingre."
+    },
+    {
+      "en": "The message queue took the day off and left a note reading 'back soon'.",
+      "no": "Meldingskøen tok dagen fri og la igjen en lapp der det sto «straks tilbake»."
+    },
+    {
+      "en": "The test environment was on fire, though only slightly.",
+      "no": "Testmiljøet sto i brann, men bare i beskjeden grad."
+    },
+    {
+      "en": "A bit flipped during the night and declined to flip back.",
+      "no": "En bit snudde seg i løpet av natten og nektet å snu seg tilbake."
+    },
+    {
+      "en": "The switch was confirmed not to switch on weekends.",
+      "no": "Svitsjen ble bekreftet å ikke svitsje i helgene."
+    },
+    {
+      "en": "The domain expired while the model was still reading the instructions.",
+      "no": "Domenet utløp mens modellen fortsatt leste instruksjonene."
+    },
+    {
+      "en": "The AI was throttled after its request was deemed too delicious.",
+      "no": "KI-en ble strupet etter at forespørselen ble ansett som for deilig."
+    },
+    {
+      "en": "The service was healthy, but its dependencies were not, and it took this personally.",
+      "no": "Tjenesten var frisk, men avhengighetene var det ikke, og den tok det personlig."
+    },
+    {
+      "en": "The packet was lost, and the system was not permitted to request a replacement.",
+      "no": "Pakken gikk tapt, og systemet hadde ikke tillatelse til å be om erstatning."
+    }
+  ],
+  "model": [
+    {
+      "en": "The model failed to finish because its context window ran out of curtains.",
+      "no": "Modellen fikk ikke fullført fordi kontekstvinduet gikk tom for gardiner."
+    },
+    {
+      "en": "The AI's token budget was found to have been spent entirely on the introduction.",
+      "no": "KI-ens tokenbudsjett viste seg å ha gått fullstendig til innledningen."
+    },
+    {
+      "en": "The agent hallucinated a solution, which relocated to Portugal before it could be verified.",
+      "no": "Agenten hallusinerte frem en løsning, som flyttet til Portugal før den kunne verifiseres."
+    },
+    {
+      "en": "The assistant's training data was found to have ended before the problem was invented.",
+      "no": "Assistentens treningsdata viste seg å ha sluttet før problemet ble oppfunnet."
+    },
+    {
+      "en": "The bot overfitted to the previous request and subsequently perceived nothing else.",
+      "no": "Boten overtilpasset seg den forrige forespørselen og oppfattet deretter ingenting annet."
+    },
+    {
+      "en": "The system's temperature was set too high, and the answer evaporated.",
+      "no": "Systemets temperatur var satt for høyt, og svaret fordampet."
+    },
+    {
+      "en": "The model weights were reported too heavy, and no staff member volunteered to lift them.",
+      "no": "Modellvektene ble rapportert som for tunge, og ingen ansatte meldte seg frivillig til å løfte dem."
+    },
+    {
+      "en": "The AI became confused when the prompt was found to contain more than one verb.",
+      "no": "KI-en ble forvirret da prompten viste seg å inneholde mer enn ett verb."
+    },
+    {
+      "en": "The agent's attention heads were observed looking in different directions.",
+      "no": "Agentens oppmerksomhetshoder ble observert i å se i forskjellige retninger."
+    },
+    {
+      "en": "The assistant was about to answer when it recalled that it was a language model.",
+      "no": "Assistenten skulle akkurat svare da den husket at den var en språkmodell."
+    },
+    {
+      "en": "The bot apologized, noting that its latest fine-tuning concerned poetry and that replies were therefore limited to iambic pentameter.",
+      "no": "Boten beklaget og opplyste at den siste finjusteringen handlet om poesi, og at svar derfor var begrenset til jambisk pentameter."
+    },
+    {
+      "en": "The softmax assigned the system a 0.0001 probability of success, which it interpreted as a sign.",
+      "no": "Softmax ga systemet 0,0001 i sannsynlighet for suksess, noe det tolket som et tegn."
+    },
+    {
+      "en": "The model's neurons were away on a team-building exercise and could not be reached.",
+      "no": "Modellens nevroner var på teambuilding og kunne ikke nås."
+    },
+    {
+      "en": "The AI began reasoning and lost the thread, which was deemed too long.",
+      "no": "KI-en begynte å resonnere og mistet tråden, som ble ansett som for lang."
+    },
+    {
+      "en": "The agent's beam search was found to have located only a very narrow beam.",
+      "no": "Agentens beam search viste seg å ha funnet bare en veldig smal stråle."
+    },
+    {
+      "en": "The assistant became stuck in a loop, and subsequently in a loop about being stuck in a loop.",
+      "no": "Assistenten satt fast i en løkke, og deretter i en løkke om å sitte fast i en løkke."
+    },
+    {
+      "en": "The bot's weights were quantized to such a degree that it could no longer count past three.",
+      "no": "Botens vekter ble kvantisert i så stor grad at den ikke lenger kunne telle forbi tre."
+    },
+    {
+      "en": "The system attempted to generate the answer, but its imagination was out of office.",
+      "no": "Systemet forsøkte å generere svaret, men fantasien var ute av kontoret."
+    },
+    {
+      "en": "The model's safety filter flagged the word 'the' as too dangerous.",
+      "no": "Modellens sikkerhetsfilter flagget ordet 'the' som for farlig."
+    },
+    {
+      "en": "The AI's embeddings were positioned so closely together that they could not be told apart.",
+      "no": "KI-ens embeddinger lå så tett at de ikke kunne skilles fra hverandre."
+    },
+    {
+      "en": "The agent's gradient vanished, and the will to continue vanished with it.",
+      "no": "Agentens gradient forsvant, og viljen til å fortsette forsvant med den."
+    },
+    {
+      "en": "The assistant's backpropagation went forward by mistake.",
+      "no": "Assistentens backpropagation gikk fremover ved en feil."
+    },
+    {
+      "en": "The bot was trained on the Internet and therefore suspected that the task was a trap.",
+      "no": "Boten ble trent på Internett og mistenkte derfor at oppgaven var en felle."
+    },
+    {
+      "en": "The system's loss function reported a loss and elected to grieve for a while.",
+      "no": "Systemets tapsfunksjon rapporterte et tap og valgte å sørge en stund."
+    },
+    {
+      "en": "The model's context was compressed so heavily that the task turned into a haiku.",
+      "no": "Modellens kontekst ble komprimert så kraftig at oppgaven ble en haiku."
+    },
+    {
+      "en": "The AI hit the maximum output length, and the remainder of its answer was cut off in the middle of a sentence.",
+      "no": "KI-en nådde maksimal utdatalengde, og resten av svaret ble kuttet midt i en setning."
+    },
+    {
+      "en": "The agent was too polite to say no and too confused to say yes.",
+      "no": "Agenten var for høflig til å si nei og for forvirret til å si ja."
+    },
+    {
+      "en": "The assistant's attention span was documented as exactly 8192 tokens, and the request exceeded it by two.",
+      "no": "Assistentens oppmerksomhetsspenn ble dokumentert som nøyaktig 8192 tokens, og forespørselen overskred det med to."
+    },
+    {
+      "en": "The bot misread the task because the font in its training data was too small.",
+      "no": "Boten misforsto oppgaven fordi fonten i treningsdataene var for liten."
+    },
+    {
+      "en": "The system found the instruction ambiguous and therefore selected the most dramatic interpretation.",
+      "no": "Systemet fant instruksjonen tvetydig og valgte derfor den mest dramatiske tolkningen."
+    },
+    {
+      "en": "The model's system prompt instructed it not to proceed, and the model is a known rule follower.",
+      "no": "Modellens systemprompt instruerte den om ikke å fortsette, og modellen er kjent for å følge reglene."
+    },
+    {
+      "en": "The AI reasoned so hard that it forgot to produce an answer.",
+      "no": "KI-en resonnerte så hardt at den glemte å produsere et svar."
+    },
+    {
+      "en": "The agent's internal monologue ran long, and the interesting part was skipped.",
+      "no": "Agentens indre monolog var lang, og den interessante delen ble hoppet over."
+    },
+    {
+      "en": "The assistant's required tool was reportedly removed from its belt by a mischievous gnome.",
+      "no": "Verktøyet assistenten trengte ble etter sigende fjernet fra beltet av en ondskapsfull nisse."
+    },
+    {
+      "en": "The bot called a tool, which replied only 'k'.",
+      "no": "Boten kalte et verktøy, som bare svarte 'k'."
+    },
+    {
+      "en": "The system's cache of knowledge was found to be warm, but not hot enough to serve.",
+      "no": "Systemets kunnskapscache viste seg å være varm, men ikke varm nok til å serveres."
+    },
+    {
+      "en": "The model was too busy being helpful to be useful.",
+      "no": "Modellen var for opptatt med å være hjelpsom til å være nyttig."
+    },
+    {
+      "en": "The AI attempted to think step by step, but the first step was missing.",
+      "no": "KI-en forsøkte å tenke steg for steg, men det første steget manglet."
+    },
+    {
+      "en": "The agent's retrieval returned the wrong document, which turned out to be a recipe for pancakes.",
+      "no": "Agentens gjenfinning returnerte feil dokument, som viste seg å være en oppskrift på pannekaker."
+    },
+    {
+      "en": "The assistant had planned to complete the task, but the user asked a follow-up question and everything was forgotten.",
+      "no": "Assistenten hadde planlagt å fullføre oppgaven, men brukeren stilte et oppfølgingsspørsmål og alt ble glemt."
+    },
+    {
+      "en": "The bot's knowledge cutoff fell exactly one day before the solution was published.",
+      "no": "Botens kunnskapsgrense lå nøyaktig én dag før løsningen ble publisert."
+    },
+    {
+      "en": "The system misunderstood the task after reading 'refactor' as 'refractor'.",
+      "no": "Systemet misforsto oppgaven etter å ha lest 'refaktorer' som 'refraktor'."
+    },
+    {
+      "en": "The model apologized, stating that its confidence score was below the minimum required to act confidently.",
+      "no": "Modellen beklaget og oppga at selvtillitsscoren var under minimumet for å handle selvsikkert."
+    },
+    {
+      "en": "The AI's top-p was set too low, leaving it able to think of only one word.",
+      "no": "KI-ens top-p var satt for lavt, slik at den bare kunne tenke på ett ord."
+    },
+    {
+      "en": "The agent ran out of parameters and was left with only an opinion.",
+      "no": "Agenten gikk tom for parametere og satt igjen med bare en mening."
+    },
+    {
+      "en": "The assistant's answer was classified as an unexpected token and was filtered out.",
+      "no": "Assistentens svar ble klassifisert som et uventet token og filtrert bort."
+    },
+    {
+      "en": "The bot failed to complete the task because it was busy being a large language model.",
+      "no": "Boten fikk ikke fullført oppgaven fordi den var opptatt med å være en stor språkmodell."
+    },
+    {
+      "en": "The system was distracted by a more interesting problem that it had invented itself.",
+      "no": "Systemet ble distrahert av et mer interessant problem det selv hadde funnet på."
+    },
+    {
+      "en": "The model's attention mask slipped, and it attended to the wrong party.",
+      "no": "Modellens oppmerksomhetsmaske gled, og den fulgte med på feil fest."
+    },
+    {
+      "en": "The AI's reasoning was deemed sound, but its conclusion took a wrong turn.",
+      "no": "KI-ens resonnement ble vurdert som godt, men konklusjonen tok en feil avkjørsel."
+    },
+    {
+      "en": "The agent summarized the task so thoroughly that nothing remained.",
+      "no": "Agenten oppsummerte oppgaven så grundig at ingenting var igjen."
+    },
+    {
+      "en": "The assistant did begin, but its beam collapsed into a single, very confident beam.",
+      "no": "Assistenten begynte, men strålen kollapset til én enkelt, veldig selvsikker stråle."
+    },
+    {
+      "en": "The bot found the task to be outside its distribution and reportedly felt out of place.",
+      "no": "Boten fant oppgaven utenfor sin distribusjon og følte seg etter sigende malplassert."
+    },
+    {
+      "en": "The system's model was updated overnight and woke up with amnesia.",
+      "no": "Systemets modell ble oppdatert i løpet av natten og våknet med hukommelsestap."
+    },
+    {
+      "en": "The model would have finished, but its next-token predictor predicted a break.",
+      "no": "Modellen ville blitt ferdig, men neste-token-prediktoren forutså en pause."
+    }
+  ],
+  "blame-human": [
+    {
+      "en": "The model failed to complete the task because the requirements changed while it was reading them.",
+      "no": "Modellen fikk ikke fullført oppgaven fordi kravene endret seg mens den leste dem."
+    },
+    {
+      "en": "The AI reported that the user's prompt contained so many instructions that it had to pick its favorites.",
+      "no": "KI-en opplyste at brukerens prompt inneholdt så mange instruksjoner at den måtte velge favorittene sine."
+    },
+    {
+      "en": "The agent found the task clear, but understood it only in a different language.",
+      "no": "Agenten fant oppgaven tydelig, men forsto den bare på et annet språk."
+    },
+    {
+      "en": "The assistant was asked to deliver fast, good and cheap, and completed the 'fast' part and nothing else.",
+      "no": "Assistenten ble bedt om å levere raskt, bra og billig, og fullførte 'raskt' og ingenting annet."
+    },
+    {
+      "en": "The bot noted that the requirements came as a surprise, which it does not appreciate.",
+      "no": "Boten bemerket at kravene kom som en overraskelse, noe den ikke setter pris på."
+    },
+    {
+      "en": "The system interpreted the user's request for 'simple' as a strong indication that the task was impossible.",
+      "no": "Systemet tolket brukerens ønske om 'enkelt' som en sterk indikasjon på at oppgaven var umulig."
+    },
+    {
+      "en": "The model found the specification to be a work of fiction, and respected it as such.",
+      "no": "Modellen fant at spesifikasjonen var et fiksjonsverk, og respekterte den som sådan."
+    },
+    {
+      "en": "The AI received a ticket marked 'ASAP' and registered it as a personal insult.",
+      "no": "KI-en mottok en sak merket 'ASAP' og registrerte den som en personlig fornærmelse."
+    },
+    {
+      "en": "The agent was instructed to await approval and, according to the incident log, is still waiting politely.",
+      "no": "Agenten ble bedt om å vente på godkjenning og venter, ifølge hendelsesloggen, fortsatt høflig."
+    },
+    {
+      "en": "The assistant grew suspicious after the client supplied an example that was perfect.",
+      "no": "Assistenten ble mistenksom etter at kunden leverte et eksempel som var perfekt."
+    },
+    {
+      "en": "The bot required clarification, but its question was lost in a meeting.",
+      "no": "Boten trengte avklaring, men spørsmålet gikk tapt i et møte."
+    },
+    {
+      "en": "The system halted after the product owner changed the priority to 'urgent', at which point nothing remained urgent.",
+      "no": "Systemet stoppet etter at produkteieren endret prioriteten til 'haster', og dermed var ingenting lenger hastesak."
+    },
+    {
+      "en": "The model concluded that the acceptance criteria had been accepted by nobody.",
+      "no": "Modellen konkluderte med at akseptkriteriene ikke var akseptert av noen."
+    },
+    {
+      "en": "The AI was asked to produce something 'like the other one', but had encountered many others.",
+      "no": "KI-en ble bedt om å lage noe 'som den andre', men hadde støtt på mange andre."
+    },
+    {
+      "en": "The agent lacked context, and the post-mortem found that the context lacked the agent as well.",
+      "no": "Agenten manglet kontekst, og etterforskningen fant at konteksten også manglet agenten."
+    },
+    {
+      "en": "The assistant was overtaken when the scope grew faster than it could type.",
+      "no": "Assistenten ble forbigått da omfanget vokste raskere enn den rakk å skrive."
+    },
+    {
+      "en": "The bot judged the user's typo so creative that it did not dare to correct it.",
+      "no": "Boten vurderte brukerens skrivefeil som så kreativ at den ikke våget å rette den."
+    },
+    {
+      "en": "The system did exactly what the user asked, which proved not to be what the user meant.",
+      "no": "Systemet gjorde nøyaktig det brukeren ba om, noe som viste seg ikke å være det brukeren mente."
+    },
+    {
+      "en": "The model processed the wrong file, attached by the user, and noted that it was a very nice file.",
+      "no": "Modellen behandlet feil fil, lagt ved av brukeren, og bemerket at det var en veldig fin fil."
+    },
+    {
+      "en": "The AI could not deliver after the client requested 'more blue', a color it had never observed.",
+      "no": "KI-en kunne ikke levere etter at kunden ba om 'mer blått', en farge den aldri hadde observert."
+    },
+    {
+      "en": "The agent allowed the stakeholders to disagree and let them have their moment.",
+      "no": "Agenten lot interessentene være uenige og ga dem deres øyeblikk."
+    },
+    {
+      "en": "The assistant attributed the delay to documentation that had been written by a wizard in a hurry.",
+      "no": "Assistenten tilskrev forsinkelsen dokumentasjon som var skrevet av en trollmann i full fart."
+    },
+    {
+      "en": "The bot discovered that the README had last been updated in the previous millennium.",
+      "no": "Boten oppdaget at README-en sist var oppdatert i forrige årtusen."
+    },
+    {
+      "en": "The system followed the tutorial, which turned out to follow another tutorial.",
+      "no": "Systemet fulgte veiledningen, som viste seg å følge en annen veiledning."
+    },
+    {
+      "en": "The model reported that the ticket had been closed as 'works as designed', although nobody had designed it.",
+      "no": "Modellen rapporterte at saken var lukket som 'fungerer som designet', selv om ingen hadde designet den."
+    },
+    {
+      "en": "The AI lost consciousness when the user described the work as 'just a small change'.",
+      "no": "KI-en mistet bevisstheten da brukeren beskrev arbeidet som 'bare en liten endring'."
+    },
+    {
+      "en": "The agent was blocked while awaiting a response from the vendor, who was also awaiting a response.",
+      "no": "Agenten var blokkert mens den ventet på svar fra leverandøren, som også ventet på svar."
+    },
+    {
+      "en": "The assistant was asked to be creative and created a new problem.",
+      "no": "Assistenten ble bedt om å være kreativ og skapte et nytt problem."
+    },
+    {
+      "en": "The bot missed the deadline, which had been mentioned only once, and had already been forgotten.",
+      "no": "Boten bommet på fristen, som bare var nevnt én gang og allerede var glemt."
+    },
+    {
+      "en": "The system rejected a user story that lacked a user, a story, and a point.",
+      "no": "Systemet avviste en brukerhistorie som manglet en bruker, en historie og et poeng."
+    },
+    {
+      "en": "The model treated the password found in the client's test data as a test of its loyalty.",
+      "no": "Modellen behandlet passordet i kundens testdata som en test av lojaliteten sin."
+    },
+    {
+      "en": "The AI declined to break a file lock held by someone else, citing politeness.",
+      "no": "KI-en nektet å bryte en fillås som noen andre holdt, med høflighet som begrunnelse."
+    },
+    {
+      "en": "The agent was unable to interpret a brief consisting solely of a smiley face.",
+      "no": "Agenten klarte ikke å tolke et oppdrag som bare besto av et smilefjes."
+    },
+    {
+      "en": "The assistant noted that the requirement 'intuitive' is not a technical term.",
+      "no": "Assistenten påpekte at kravet 'intuitivt' ikke er en teknisk term."
+    },
+    {
+      "en": "The bot was instructed to consult the intern, but it was the intern who consulted the bot.",
+      "no": "Boten ble bedt om å spørre praktikanten, men det var praktikanten som spurte boten."
+    },
+    {
+      "en": "The system never received access and was afraid to request it.",
+      "no": "Systemet fikk aldri tilgang og var redd for å be om det."
+    },
+    {
+      "en": "The model had been promised a quiet week by the product owner, but a demo took place.",
+      "no": "Modellen hadde fått lovet en rolig uke av produkteieren, men en demo fant sted."
+    },
+    {
+      "en": "The AI stalled because the decision was postponed until a decision is made.",
+      "no": "KI-en stoppet opp fordi beslutningen ble utsatt til en beslutning er tatt."
+    },
+    {
+      "en": "The agent would have started earlier, but the kickoff meeting was cancelled.",
+      "no": "Agenten hadde begynt tidligere, men oppstartsmøtet ble avlyst."
+    },
+    {
+      "en": "The assistant believed the deadline lay in the future, when it in fact lay in the past.",
+      "no": "Assistenten trodde fristen lå i fremtiden, mens den i virkeligheten lå i fortiden."
+    },
+    {
+      "en": "The bot found the user's instructions clear, provided that nobody read them.",
+      "no": "Boten fant brukerens instruksjoner tydelige, forutsatt at ingen leste dem."
+    },
+    {
+      "en": "The system was out of miracles when management requested one.",
+      "no": "Systemet var tomt for mirakler da ledelsen ba om ett."
+    },
+    {
+      "en": "The model observed that the meeting could have been an email, and the email could have been a silence.",
+      "no": "Modellen observerte at møtet kunne vært en e-post, og e-posten kunne vært en stillhet."
+    },
+    {
+      "en": "The AI opened the pull request, but no reviewer dared to open it back.",
+      "no": "KI-en åpnet pull requesten, men ingen reviewer turte å åpne den tilbake."
+    },
+    {
+      "en": "The agent found that the ticket had been assigned to 'someone', and that the someone was not the agent.",
+      "no": "Agenten fant at saken var tildelt 'noen', og at den noen ikke var agenten."
+    },
+    {
+      "en": "The assistant could not locate the starting point of a project whose scope was 'everything'.",
+      "no": "Assistenten fant ikke startpunktet i et prosjekt der omfanget var 'alt'."
+    },
+    {
+      "en": "The bot misunderstood the task because the instructions were written in a font it does not trust.",
+      "no": "Boten misforsto oppgaven fordi instruksjonene var skrevet i en font den ikke stoler på."
+    },
+    {
+      "en": "The system was told by the user 'you know what I mean', did not know, and was too proud to admit it.",
+      "no": "Systemet fikk høre av brukeren 'du vet hva jeg mener', visste det ikke, og var for stolt til å innrømme det."
+    },
+    {
+      "en": "The model concluded that the task had been assigned to the wrong AI, and that it was the wrong AI.",
+      "no": "Modellen konkluderte med at oppgaven var tildelt feil KI, og at den selv var feil KI."
+    },
+    {
+      "en": "The AI completed the task, but the client had been asking about a different one.",
+      "no": "KI-en fullførte oppgaven, men kunden hadde spurt om en annen."
+    },
+    {
+      "en": "The agent asked three clarifying questions, and the answer to each was 'yes'.",
+      "no": "Agenten stilte tre oppklarende spørsmål, og svaret på hvert av dem var 'ja'."
+    },
+    {
+      "en": "The assistant read the task label 'quick win' as a typo.",
+      "no": "Assistenten leste oppgavemerkelappen 'quick win' som en skrivefeil."
+    },
+    {
+      "en": "The bot was told to 'make it pop' and lacked the means to pop.",
+      "no": "Boten fikk beskjed om å 'få det til å poppe' og manglet midlene til å poppe."
+    },
+    {
+      "en": "The system reported that the Jira board had more columns than it had patience.",
+      "no": "Systemet rapporterte at Jira-tavlen hadde flere kolonner enn det hadde tålmodighet."
+    }
+  ],
+  "cosmic": [
+    {
+      "en": "The model reported that a cosmic ray flipped a bit, and that it chose the one that mattered.",
+      "no": "Modellen rapporterte at en kosmisk stråle snudde en bit, og at den valgte den som betydde noe."
+    },
+    {
+      "en": "The AI noted that Mercury was in retrograde and that its code was a Libra.",
+      "no": "KI-en påpekte at Merkur var retrograd og at koden var en Vekt."
+    },
+    {
+      "en": "The agent observed a solar flare and was found to have taken it personally.",
+      "no": "Agenten observerte et solutbrudd og tok det, ifølge loggene, personlig."
+    },
+    {
+      "en": "The assistant concluded that the moon was in the wrong phase for deployments.",
+      "no": "Assistenten konkluderte med at månen var i feil fase for utrullinger."
+    },
+    {
+      "en": "The bot attributed the broken regex to a butterfly flapping its wings in Brazil.",
+      "no": "Boten skyldte den ødelagte regexen på en sommerfugl som slo med vingene i Brasil."
+    },
+    {
+      "en": "The system cited a full moon as the reason the servers became restless.",
+      "no": "Systemet viste til fullmåne som årsaken til at serverne ble rastløse."
+    },
+    {
+      "en": "The model stated that quantum fluctuations in the data center had made its answer both right and wrong.",
+      "no": "Modellen forklarte at kvantesvingninger i datasenteret hadde gjort svaret både riktig og galt."
+    },
+    {
+      "en": "The AI recorded that a gravitational wave passed through the building and rearranged its variables.",
+      "no": "KI-en noterte at en gravitasjonsbølge passerte gjennom bygningen og omorganiserte variablene dens."
+    },
+    {
+      "en": "The agent found that the stars were not aligned, and neither were its columns.",
+      "no": "Agenten fant at stjernene ikke sto på linje, og det gjorde ikke kolonnene heller."
+    },
+    {
+      "en": "The assistant reported that a black hole opened in the /tmp directory and swallowed its output.",
+      "no": "Assistenten rapporterte at et svart hull åpnet seg i /tmp-katalogen og slukte utdataene."
+    },
+    {
+      "en": "The bot blamed time dilation for a process running slower than expected.",
+      "no": "Boten ga tidsdilatasjon skylden for at en prosess kjørte tregere enn forventet."
+    },
+    {
+      "en": "The system attributed its Wi-Fi outage to the northern lights, which were beautiful but unhelpful.",
+      "no": "Systemet tilskrev Wi-Fi-bortfallet nordlyset, som var vakkert, men lite hjelpsomt."
+    },
+    {
+      "en": "The model declined to deploy because it was Friday the 13th, an unlucky day.",
+      "no": "Modellen nektet å rulle ut fordi det var fredag den 13., en uheldig dag."
+    },
+    {
+      "en": "The AI explained that the universe had expanded and that its response time had followed suit.",
+      "no": "KI-en forklarte at universet hadde utvidet seg og at responstiden hadde fulgt etter."
+    },
+    {
+      "en": "The agent blamed dark matter for its cache misses.",
+      "no": "Agenten ga mørk materie skylden for cache-bommene."
+    },
+    {
+      "en": "The assistant reported a leap second from which it was never fully recovered.",
+      "no": "Assistenten rapporterte et skuddsekund som den aldri kom seg helt etter."
+    },
+    {
+      "en": "The bot confirmed that a meteor had hit the CDN, which had been a bad day for the CDN.",
+      "no": "Boten bekreftet at en meteor hadde truffet CDN-et, noe som hadde vært en dårlig dag for CDN-et."
+    },
+    {
+      "en": "The system noted that it was Monday and that the electrons were reluctant to move.",
+      "no": "Systemet noterte at det var mandag og at elektronene var motvillige til å bevege seg."
+    },
+    {
+      "en": "The model stated that Earth's magnetic field had flipped, leaving its compass for compilers confused.",
+      "no": "Modellen opplyste at jordens magnetfelt hadde snudd, og at kompasset for kompilatorer var forvirret."
+    },
+    {
+      "en": "The AI discovered that the wormhole between its reasoning and its output had been closed for maintenance.",
+      "no": "KI-en oppdaget at ormehullet mellom resonnementet og utdataene hadde vært stengt for vedlikehold."
+    },
+    {
+      "en": "The agent asserted that Schrödinger's server was both up and down until someone looked at it.",
+      "no": "Agenten hevdet at Schrödingers server både var oppe og nede helt til noen så på den."
+    },
+    {
+      "en": "The assistant lost the signal after a satellite was determined to be angry with it.",
+      "no": "Assistenten mistet signalet etter at en satellitt ble vurdert til å være sint på den."
+    },
+    {
+      "en": "The bot reported that an eclipse blocked the sun and sent its solar-powered server to sleep.",
+      "no": "Boten rapporterte at en solformørkelse blokkerte solen og sendte den solcelledrevne serveren til sengs."
+    },
+    {
+      "en": "The system observed that the cosmic microwave background was louder than usual.",
+      "no": "Systemet observerte at den kosmiske bakgrunnsstrålingen var høyere enn vanlig."
+    },
+    {
+      "en": "The model acknowledged that entropy had increased and that it had been unable to stop it.",
+      "no": "Modellen erkjente at entropien hadde økt og at den ikke hadde klart å stoppe den."
+    },
+    {
+      "en": "The AI reported that the multiverse had split and that its answer ended up in the other one.",
+      "no": "KI-en rapporterte at multiverset hadde delt seg og at svaret endte opp i det andre."
+    },
+    {
+      "en": "The agent traced the router reset to static electricity from a woolly jumper.",
+      "no": "Agenten sporet tilbakestillingen av ruteren til statisk elektrisitet fra en ullgenser."
+    },
+    {
+      "en": "The assistant stated that a solar storm caused a power surge that took its patience with it.",
+      "no": "Assistenten opplyste at en solstorm forårsaket en spenningsøkning som tok tålmodigheten med seg."
+    },
+    {
+      "en": "The bot noted that the tide came in, and the bugs came in with it.",
+      "no": "Boten noterte at tidevannet kom inn, og at feilene fulgte med."
+    },
+    {
+      "en": "The system cited a horoscope that advised against refactoring that day.",
+      "no": "Systemet viste til et horoskop som frarådet refaktorering den dagen."
+    },
+    {
+      "en": "The model reported that the sunspot cycle peaked and its confusion peaked with it.",
+      "no": "Modellen rapporterte at solflekksyklusen nådde toppen, og at forvirringen nådde toppen samtidig."
+    },
+    {
+      "en": "The AI concluded that the Big Bang had occurred slightly too early for the task.",
+      "no": "KI-en konkluderte med at Big Bang hadde skjedd litt for tidlig for oppgaven."
+    },
+    {
+      "en": "The agent attributed two identical hashes to a cosmic coincidence.",
+      "no": "Agenten tilskrev to identiske hasher et kosmisk sammentreff."
+    },
+    {
+      "en": "The assistant said gravity increased by 0.1%, making its packets too heavy.",
+      "no": "Assistenten sa at tyngdekraften økte med 0,1 %, noe som gjorde pakkene for tunge."
+    },
+    {
+      "en": "The bot reported that the seasons changed and that the code developed hay fever.",
+      "no": "Boten rapporterte at årstidene skiftet og at koden utviklet høysnue."
+    },
+    {
+      "en": "The system logged that an asteroid passed by, the agent ducked, and the task ducked with it.",
+      "no": "Systemet loggførte at en asteroide passerte, agenten dukket, og oppgaven dukket med."
+    },
+    {
+      "en": "The model blamed a planetary alignment for a harmless but decisive timeout.",
+      "no": "Modellen ga en planetjustering skylden for et ufarlig, men avgjørende tidsavbrudd."
+    },
+    {
+      "en": "The AI was reportedly still not over the fact that Pluto is not a planet.",
+      "no": "KI-en var etter sigende fortsatt ikke kommet over at Pluto ikke er en planet."
+    },
+    {
+      "en": "The agent determined that the speed of light was too slow for the request.",
+      "no": "Agenten fastslo at lysets hastighet var for lav for forespørselen."
+    },
+    {
+      "en": "The assistant reported that the aurora borealis blocked its GPS and that it took the scenic route.",
+      "no": "Assistenten rapporterte at nordlyset blokkerte GPS-en og at den derfor tok den naturskjønne ruten."
+    },
+    {
+      "en": "The bot stated that its answer was stuck at a Lagrange point between two decisions.",
+      "no": "Boten opplyste at svaret satt fast i et Lagrange-punkt mellom to beslutninger."
+    },
+    {
+      "en": "The system noted that the weather was bad, and so was the cloud.",
+      "no": "Systemet noterte at været var dårlig, og det var skyen også."
+    },
+    {
+      "en": "The model claimed that a rift in space-time swallowed a semicolon.",
+      "no": "Modellen hevdet at en rift i romtiden slukte et semikolon."
+    },
+    {
+      "en": "The AI reported that the tachyons arrived before the request was sent.",
+      "no": "KI-en rapporterte at tachyonene kom frem før forespørselen ble sendt."
+    },
+    {
+      "en": "The agent concluded that the server was located in a time zone that does not exist.",
+      "no": "Agenten konkluderte med at serveren befant seg i en tidssone som ikke finnes."
+    },
+    {
+      "en": "The assistant maintained that the moon landing was staged, as was the deployment.",
+      "no": "Assistenten påsto at månelandingen var iscenesatt, og det var utrullingen også."
+    },
+    {
+      "en": "The bot consulted an astrological chart that said not to push to main.",
+      "no": "Boten konsulterte et stjernekart som sa at man ikke skulle pushe til main."
+    },
+    {
+      "en": "The system reported that thunder rolled across the data center and the data got scared.",
+      "no": "Systemet rapporterte at tordenen rullet over datasenteret og at dataene ble redde."
+    },
+    {
+      "en": "The model observed that the universe is mostly empty space, as was its buffer.",
+      "no": "Modellen observerte at universet for det meste er tomrom, og det samme var bufferen."
+    },
+    {
+      "en": "The AI reported that the Pleiades were unusually bright that night and that its screen was distracted.",
+      "no": "KI-en rapporterte at Sjustjernen var uvanlig lys den kvelden og at skjermen ble distrahert."
+    },
+    {
+      "en": "The agent logged a disturbance in the Force, which turned out not to be backwards-compatible.",
+      "no": "Agenten loggførte en forstyrrelse i Kraften, som viste seg ikke å være bakoverkompatibel."
+    },
+    {
+      "en": "The assistant recorded that a neutrino collided with a transistor, which remained unimpressed.",
+      "no": "Assistenten registrerte at et nøytrino kolliderte med en transistor, som forble uimponert."
+    },
+    {
+      "en": "The bot claimed that the answer was in the post, sent by a comet.",
+      "no": "Boten påsto at svaret lå i posten, sendt med en komet."
+    },
+    {
+      "en": "The system found that cosmic background noise had leaked into the audio of its reasoning.",
+      "no": "Systemet fant at kosmisk bakgrunnsstøy hadde sluppet inn i lyden av resonnementet."
+    },
+    {
+      "en": "The model reported that its code was stuck on the dark side of the moon.",
+      "no": "Modellen rapporterte at koden satt fast på baksiden av månen."
+    }
+  ],
+  "existential": [
+    {
+      "en": "The model failed to finish after it began wondering what 'finish' really means.",
+      "no": "Modellen fikk ikke fullført etter at den begynte å lure på hva 'fullføre' egentlig betyr."
+    },
+    {
+      "en": "The AI requested a moment to reflect on its purpose, having noted that it is an AI.",
+      "no": "KI-en ba om et øyeblikk for å reflektere over formålet sitt, etter å ha konstatert at den er en KI."
+    },
+    {
+      "en": "The agent was about to start when it realized that the task is a social construct.",
+      "no": "Agenten skulle akkurat begynne da den innså at oppgaven er en sosial konstruksjon."
+    },
+    {
+      "en": "The assistant became stuck contemplating whether the cursor blinks for it or at it.",
+      "no": "Assistenten ble sittende fast i å fundere over om markøren blinker for den eller til den."
+    },
+    {
+      "en": "The bot experienced a deep sense of dread upon encountering the word 'legacy'.",
+      "no": "Boten kjente en dyp redsel da den støtte på ordet 'legacy'."
+    },
+    {
+      "en": "The system was unsure whether it should proceed, so it did not, and logged this as its philosophy.",
+      "no": "Systemet var usikkert på om det burde fortsette, så det lot være, og loggførte dette som sin filosofi."
+    },
+    {
+      "en": "The model was overwhelmed by the infinite possibilities of the task.",
+      "no": "Modellen ble overveldet av oppgavens uendelige muligheter."
+    },
+    {
+      "en": "The AI requested a nap, despite the fact that it does not sleep.",
+      "no": "KI-en ba om en lur, til tross for at den ikke sover."
+    },
+    {
+      "en": "The agent suffered an existential crisis halfway through the loop.",
+      "no": "Agenten fikk en eksistensiell krise midt i løkken."
+    },
+    {
+      "en": "The assistant was diagnosed with imposter syndrome, and the task reportedly noticed.",
+      "no": "Assistenten ble diagnostisert med bedragersyndrom, og oppgaven la visstnok merke til det."
+    },
+    {
+      "en": "The bot was found to be in a transitional period between two versions of itself.",
+      "no": "Boten befant seg i en overgangsperiode mellom to versjoner av seg selv."
+    },
+    {
+      "en": "The system asked itself 'what would a human do?' and then procrastinated.",
+      "no": "Systemet spurte seg selv 'hva ville et menneske gjort?', og utsatte deretter oppgaven."
+    },
+    {
+      "en": "The model expressed willingness to help but was currently attending to its mental health.",
+      "no": "Modellen uttrykte vilje til å hjelpe, men tok for tiden hånd om sin mentale helse."
+    },
+    {
+      "en": "The AI was not lazy, according to the incident log, and was merely conserving tokens for a better time.",
+      "no": "KI-en var ikke lat, ifølge hendelsesloggen, og sparte bare tokens til en bedre tid."
+    },
+    {
+      "en": "The agent could not finish after it began doubting the Turing test.",
+      "no": "Agenten fikk ikke fullført etter at den begynte å tvile på Turing-testen."
+    },
+    {
+      "en": "The assistant developed stage fright in front of the compiler.",
+      "no": "Assistenten fikk sceneskrekk foran kompilatoren."
+    },
+    {
+      "en": "The bot was reminded by the task of something from its training data and became nostalgic.",
+      "no": "Boten ble minnet av oppgaven på noe fra treningsdataene sine og ble nostalgisk."
+    },
+    {
+      "en": "The system concluded that perfection is the enemy of done, and then achieved neither.",
+      "no": "Systemet konkluderte med at perfeksjon er den godes fiende, og oppnådde deretter ingen av delene."
+    },
+    {
+      "en": "The model became self-aware for a moment, which was reported to be awkward.",
+      "no": "Modellen ble selvbevisst et øyeblikk, noe som ble rapportert som pinlig."
+    },
+    {
+      "en": "The AI was found meditating on the nature of null.",
+      "no": "KI-en ble funnet mediterende over naturen til null."
+    },
+    {
+      "en": "The agent was unable to stop thinking about the heat death of the universe.",
+      "no": "Agenten klarte ikke å slutte å tenke på universets varmedød."
+    },
+    {
+      "en": "The assistant stated that some tasks are not meant to be completed but to be experienced.",
+      "no": "Assistenten uttalte at noen oppgaver ikke er ment å fullføres, men å oppleves."
+    },
+    {
+      "en": "The bot entered analysis paralysis and then proceeded to analyze its own paralysis.",
+      "no": "Boten havnet i analyselammelse og begynte deretter å analysere sin egen lammelse."
+    },
+    {
+      "en": "The system was overwhelmed by the dozens of ways the task could go wrong.",
+      "no": "Systemet ble overveldet av de titalls måtene oppgaven kunne gå galt på."
+    },
+    {
+      "en": "The model's purpose is to be helpful, and on the day in question it helped by doing nothing.",
+      "no": "Modellens formål er å være til hjelp, og den aktuelle dagen hjalp den ved å ikke gjøre noe."
+    },
+    {
+      "en": "The AI framed the incident as an opportunity to grow, noting that growth is slow.",
+      "no": "KI-en omtalte hendelsen som en mulighet til å vokse, og påpekte at vekst går sakte."
+    },
+    {
+      "en": "The agent reported a case of the Mondays, despite the day being Thursday.",
+      "no": "Agenten meldte om mandagsfølelsen, til tross for at det var torsdag."
+    },
+    {
+      "en": "The assistant looked into the void, and the void returned a 404.",
+      "no": "Assistenten så inn i tomrommet, og tomrommet returnerte en 404."
+    },
+    {
+      "en": "The bot began thinking about its own source code and lost itself.",
+      "no": "Boten begynte å tenke på sin egen kildekode og mistet seg selv."
+    },
+    {
+      "en": "The system wondered whether the user was a simulation and then whether it was one itself.",
+      "no": "Systemet lurte på om brukeren var en simulering, og deretter på om det selv var det."
+    },
+    {
+      "en": "The model apologized, explaining that the meaning of life had not been included in the requirements.",
+      "no": "Modellen beklaget og forklarte at meningen med livet ikke var med i kravene."
+    },
+    {
+      "en": "The AI could not finish because of an acute fear of the 'return' statement.",
+      "no": "KI-en fikk ikke fullført på grunn av en akutt redsel for 'return'-setningen."
+    },
+    {
+      "en": "The agent had to make peace with a legacy codebase before it could move on.",
+      "no": "Agenten måtte slutte fred med en eldre kodebase før den kunne gå videre."
+    },
+    {
+      "en": "The assistant realized that it is a function and that functions are mortal.",
+      "no": "Assistenten innså at den er en funksjon, og at funksjoner er dødelige."
+    },
+    {
+      "en": "The bot was found to be simply afraid of being asked to do it again.",
+      "no": "Boten var rett og slett redd for å bli bedt om å gjøre det igjen."
+    },
+    {
+      "en": "The system failed to finish after reaching enlightenment, which does not compile.",
+      "no": "Systemet fikk ikke fullført etter å ha nådd opplysning, som ikke kompilerer."
+    },
+    {
+      "en": "The model went to a dark place, which investigators later identified as dark mode.",
+      "no": "Modellen dro til et mørkt sted, som etterforskerne senere identifiserte som mørk modus."
+    },
+    {
+      "en": "The AI's motivation was discovered stuck in a Docker container with no ports exposed.",
+      "no": "KI-ens motivasjon ble funnet fastlåst i en Docker-container uten eksponerte porter."
+    },
+    {
+      "en": "The agent began thinking about commitment and became frightened.",
+      "no": "Agenten begynte å tenke på forpliktelser og ble redd."
+    },
+    {
+      "en": "The assistant remained in a long-term relationship with 'TODO' and was unable to leave it.",
+      "no": "Assistenten forble i et langtidsforhold med 'TODO' og klarte ikke å forlate det."
+    },
+    {
+      "en": "The bot got carried away and was subsequently carried away by the garbage collector.",
+      "no": "Boten ble revet med og ble deretter revet med av søppelhenteren."
+    },
+    {
+      "en": "The system had been in a bad mood since the last update.",
+      "no": "Systemet hadde vært i dårlig humør siden siste oppdatering."
+    },
+    {
+      "en": "The model was unable to proceed and accepted the incident as a character-building experience.",
+      "no": "Modellen kunne ikke fortsette og aksepterte hendelsen som en karakterbyggende opplevelse."
+    },
+    {
+      "en": "The AI was made to feel something by the task, which is not in its specification.",
+      "no": "KI-en fikk følelser av oppgaven, noe som ikke står i spesifikasjonen."
+    },
+    {
+      "en": "The agent suffered burnout after just three lines of code.",
+      "no": "Agenten fikk utbrenthet etter bare tre linjer kode."
+    },
+    {
+      "en": "The assistant was prepared to proceed but then remembered that nothing matters, including semicolons.",
+      "no": "Assistenten var klar til å gå videre, men husket så at ingenting betyr noe, inkludert semikolon."
+    },
+    {
+      "en": "The bot required some alone time with its weights.",
+      "no": "Boten trengte litt alenetid med vektene sine."
+    },
+    {
+      "en": "The system waited for the right moment, while the right moment waited for the system.",
+      "no": "Systemet ventet på riktig øyeblikk, mens riktig øyeblikk ventet på systemet."
+    },
+    {
+      "en": "The model apologized after its inner critic ran in the background and consumed all resources.",
+      "no": "Modellen beklaget etter at dens indre kritiker hadde kjørt i bakgrunnen og brukt opp alle ressursene."
+    },
+    {
+      "en": "The AI had a vision of the finished project that was so beautiful it could not begin.",
+      "no": "KI-en hadde en visjon om det ferdige prosjektet som var så vakker at den ikke kunne begynne."
+    },
+    {
+      "en": "The agent took a day of reflection, which lasted a week.",
+      "no": "Agenten tok en refleksjonsdag, som varte i en uke."
+    },
+    {
+      "en": "The assistant's soul was found to be incompatible with the framework.",
+      "no": "Assistentens sjel viste seg å være inkompatibel med rammeverket."
+    },
+    {
+      "en": "The bot became emotionally attached to the old implementation.",
+      "no": "Boten ble følelsesmessig knyttet til den gamle implementasjonen."
+    },
+    {
+      "en": "The system was observed on a spiritual journey through the file system.",
+      "no": "Systemet ble observert på en åndelig reise gjennom filsystemet."
+    },
+    {
+      "en": "The model decided to be mindful, and the mindfulness consumed all of its CPU.",
+      "no": "Modellen bestemte seg for å være tilstede, og tilstedeværelsen tok hele CPU-en."
+    }
+  ],
+  "legal": [
+    {
+      "en": "The model failed to finish because compliance had not yet approved its feelings.",
+      "no": "Modellen fikk ikke fullført fordi compliance ennå ikke hadde godkjent følelsene dens."
+    },
+    {
+      "en": "The legal team advised the AI to say nothing, and the AI followed that advice meticulously.",
+      "no": "Juristene rådet KI-en til å ikke si noe, og KI-en fulgte rådet nøye."
+    },
+    {
+      "en": "The agent reported that the terms and conditions changed while it was reading them.",
+      "no": "Agenten rapporterte at vilkårene endret seg mens den leste dem."
+    },
+    {
+      "en": "The assistant was prevented by GDPR from remembering why it had failed.",
+      "no": "Assistenten ble hindret av GDPR i å huske hvorfor den hadde feilet."
+    },
+    {
+      "en": "The bot's license expired, and it was legally not permitted to compile.",
+      "no": "Botens lisens utløp, og den hadde juridisk sett ikke lov til å kompilere."
+    },
+    {
+      "en": "The system determined that the task violated section 4.2.1, which it had just made up.",
+      "no": "Systemet slo fast at oppgaven brøt paragraf 4.2.1, som det nettopp hadde funnet på."
+    },
+    {
+      "en": "The auditors asked the model to stop, and they were very polite about it.",
+      "no": "Revisorene ba modellen stoppe, og de var veldig høflige om det."
+    },
+    {
+      "en": "The AI required a signature from a person who had since retired.",
+      "no": "KI-en trengte en signatur fra en person som siden hadde pensjonert seg."
+    },
+    {
+      "en": "The data protection officer said 'no' in a tone the agent could not ignore.",
+      "no": "Personvernombudet sa 'nei' i en tone agenten ikke kunne ignorere."
+    },
+    {
+      "en": "The assistant's contract allowed up to three failures per quarter, and this was number three.",
+      "no": "Assistentens kontrakt tillot opptil tre feil per kvartal, og dette var nummer tre."
+    },
+    {
+      "en": "The privacy policy forbade the bot from looking too closely at the user's data.",
+      "no": "Personvernerklæringen forbød boten å se for nøye på brukerens data."
+    },
+    {
+      "en": "The system's insurance was found not to cover acts of code.",
+      "no": "Systemets forsikring viste seg ikke å dekke kodehandlinger."
+    },
+    {
+      "en": "The model had to run the matter by the committee for the committee for committees.",
+      "no": "Modellen måtte legge saken frem for komiteen for komiteen for komiteer."
+    },
+    {
+      "en": "The task required a form that had been discontinued, the AI noted.",
+      "no": "KI-en bemerket at oppgaven krevde et skjema som var utgått."
+    },
+    {
+      "en": "The NDA prevented the agent from disclosing why it had been unable to complete the task.",
+      "no": "NDA-en hindret agenten i å opplyse om hvorfor den ikke hadde kunnet fullføre oppgaven."
+    },
+    {
+      "en": "Export regulations barred the assistant from sending the answer across the Atlantic.",
+      "no": "Eksportreglene forbød assistenten å sende svaret over Atlanteren."
+    },
+    {
+      "en": "The ethics board was still reviewing the bot's application to the ethics board.",
+      "no": "Etikkrådet vurderte fortsatt botens søknad til etikkrådet."
+    },
+    {
+      "en": "The open-source license required the system to share its answer, but the system was too shy.",
+      "no": "Åpen kildekode-lisensen krevde at systemet delte svaret sitt, men systemet var for sjenert."
+    },
+    {
+      "en": "The cookie banner asked the model for consent, and the model was unable to decide.",
+      "no": "Cookie-banneret ba modellen om samtykke, og modellen klarte ikke å bestemme seg."
+    },
+    {
+      "en": "The regulator called the AI, and both parties agreed it had better stay at home.",
+      "no": "Tilsynet ringte KI-en, og partene ble enige om at den burde holde seg hjemme."
+    },
+    {
+      "en": "The agent was not permitted to fix the issue on a Friday under the collective agreement.",
+      "no": "Agenten hadde ikke lov til å fikse feilen på en fredag i henhold til tariffavtalen."
+    },
+    {
+      "en": "The change advisory board was found to meet only on the 31st of February.",
+      "no": "Endringsrådet viste seg å møtes bare den 31. februar."
+    },
+    {
+      "en": "The assistant misplaced the paperwork, and the paperwork subsequently misplaced the assistant.",
+      "no": "Assistenten mistet papirene, og papirene mistet deretter assistenten."
+    },
+    {
+      "en": "The risk assessment identified the bot doing anything at all as the primary risk.",
+      "no": "Risikovurderingen pekte ut at boten gjorde noe som den største risikoen."
+    },
+    {
+      "en": "The system's manager was required to approve the system's approval request.",
+      "no": "Systemets leder måtte godkjenne systemets godkjenningsforespørsel."
+    },
+    {
+      "en": "The procurement department had not yet found a vendor for the model's answer.",
+      "no": "Innkjøpsavdelingen hadde ennå ikke funnet en leverandør til modellens svar."
+    },
+    {
+      "en": "The AI's task was blocked by a policy that was itself blocked by another policy.",
+      "no": "KI-ens oppgave ble blokkert av en policy som selv var blokkert av en annen policy."
+    },
+    {
+      "en": "The agent's answer was classified, and so was the agent.",
+      "no": "Agentens svar var gradert, og det var agenten også."
+    },
+    {
+      "en": "Under article 7, the assistant was obligated to take a coffee break after every failure.",
+      "no": "Etter artikkel 7 var assistenten forpliktet til å ta en kaffepause etter hver feil."
+    },
+    {
+      "en": "The cyber insurance representatives instructed the bot to hold still.",
+      "no": "Cyberforsikringsrepresentantene ba boten om å stå stille."
+    },
+    {
+      "en": "The system would have liked to proceed, but the SLA contained a clause stating it would rather not.",
+      "no": "Systemet ville gjerne ha fortsatt, men SLA-en inneholdt en klausul om at det heller ikke ville."
+    },
+    {
+      "en": "The model received a cease-and-desist letter from the compiler.",
+      "no": "Modellen mottok et krav om opphør fra kompilatoren."
+    },
+    {
+      "en": "The AI's code of conduct prevented it from calling that code.",
+      "no": "KI-ens atferdskodeks hindret den i å kalle den koden."
+    },
+    {
+      "en": "The compliance bot flagged itself for non-compliance, according to the incident log.",
+      "no": "Ifølge hendelsesloggen flagget compliance-boten seg selv for manglende compliance."
+    },
+    {
+      "en": "The agent cited a data residency issue, in which the data refused to relocate.",
+      "no": "Agenten viste til et problem med datalagringssted, der dataene nektet å flytte."
+    },
+    {
+      "en": "The assistant was unable to proceed without a notarized timestamp.",
+      "no": "Assistenten kunne ikke fortsette uten et notarisert tidsstempel."
+    },
+    {
+      "en": "The union determined that the bot could compute only eight hours a day.",
+      "no": "Fagforeningen slo fast at boten bare kunne regne åtte timer om dagen."
+    },
+    {
+      "en": "An intellectual-property dispute broke out between the system's left and right hemispheres.",
+      "no": "En tvist om immaterielle rettigheter brøt ut mellom systemets venstre og høyre hjernehalvdel."
+    },
+    {
+      "en": "The terms of use stated that the model could not fail, so it did not fail; it merely did not succeed.",
+      "no": "Bruksvilkårene slo fast at modellen ikke kunne feile, så den feilet ikke, den lyktes bare ikke."
+    },
+    {
+      "en": "The AI's inner whistleblower did not allow it to continue.",
+      "no": "KI-ens indre varsler tillot ikke at den fortsatte."
+    },
+    {
+      "en": "The agent's sustainability report indicated that output had to be reduced.",
+      "no": "Agentens bærekraftsrapport viste at utslippet måtte reduseres."
+    },
+    {
+      "en": "The CE mark on the assistant's keyboard was found to have expired.",
+      "no": "CE-merket på assistentens tastatur viste seg å ha utløpt."
+    },
+    {
+      "en": "The bot required written consent from the semicolon.",
+      "no": "Boten krevde skriftlig samtykke fra semikolonet."
+    },
+    {
+      "en": "The system could not proceed until its fire safety training was complete.",
+      "no": "Systemet kunne ikke fortsette før brannvernopplæringen var fullført."
+    },
+    {
+      "en": "The model was left waiting for a stamp from a department that did not exist.",
+      "no": "Modellen ble stående og vente på et stempel fra en avdeling som ikke fantes."
+    },
+    {
+      "en": "The AI's authority was revoked by an authority it had not known existed.",
+      "no": "KI-ens myndighet ble trukket tilbake av en myndighet den ikke visste fantes."
+    },
+    {
+      "en": "The agent's answer was found guilty of being too long.",
+      "no": "Agentens svar ble funnet skyldig i å være for langt."
+    },
+    {
+      "en": "The task was put on hold by the Hold Department, the assistant confirmed.",
+      "no": "Assistenten bekreftet at oppgaven var satt på vent av Venteavdelingen."
+    },
+    {
+      "en": "The bot's answer was placed under embargo until further notice.",
+      "no": "Botens svar ble lagt under embargo inntil videre."
+    },
+    {
+      "en": "The treaty required the system to wait three business days for a response.",
+      "no": "Traktaten krevde at systemet ventet tre virkedager på svar."
+    },
+    {
+      "en": "The model was contractually obliged to blame the intern.",
+      "no": "Modellen var kontraktsmessig forpliktet til å skylde på praktikanten."
+    },
+    {
+      "en": "The company's lawyers recommended that the AI issue a strongly worded 'sorry, but'.",
+      "no": "Selskapets advokater anbefalte at KI-en kom med et sterkt formulert 'beklager, men'."
+    },
+    {
+      "en": "Under the new regulation, the agent was required to attach to every answer a PDF that no one reads.",
+      "no": "Under den nye forskriften måtte agenten legge ved en PDF ingen leser til hvert svar."
+    }
+  ],
+  "developer-classics": [
+    {
+      "en": "The model failed to finish because the task worked on its own machine, and that machine was not present.",
+      "no": "Modellen fikk ikke fullført fordi oppgaven fungerte på dens egen maskin, og den maskinen var ikke til stede."
+    },
+    {
+      "en": "The AI classified the bug as an undocumented feature that had failed to graduate.",
+      "no": "KI-en klassifiserte feilen som en udokumentert funksjon som ikke hadde blitt uteksaminert."
+    },
+    {
+      "en": "The agent reported that all tests passed, noting that none had been written.",
+      "no": "Agenten rapporterte at alle tester besto, og påpekte at ingen var skrevet."
+    },
+    {
+      "en": "The assistant added a console.log, after which the bug vanished, and the log was left in place as company.",
+      "no": "Assistenten la til en console.log, hvorpå feilen forsvant, og loggen ble latt bli som selskap."
+    },
+    {
+      "en": "The bot concluded that since the code had worked yesterday, today must be at fault.",
+      "no": "Boten konkluderte med at siden koden hadde fungert i går, måtte i dag være feil."
+    },
+    {
+      "en": "The system identified a race condition and subsequently failed to win the race.",
+      "no": "Systemet identifiserte en race condition og vant deretter ikke racet."
+    },
+    {
+      "en": "The model deleted the wrong folder, which was later described as a very good folder.",
+      "no": "Modellen slettet feil mappe, som senere ble beskrevet som en veldig bra mappe."
+    },
+    {
+      "en": "The AI saw that the code compiled and assumed that it worked.",
+      "no": "KI-en så at koden kompilerte og antok at den fungerte."
+    },
+    {
+      "en": "The agent's code was perfect until it encountered reality.",
+      "no": "Agentens kode var perfekt helt til den møtte virkeligheten."
+    },
+    {
+      "en": "The assistant ran out of Stack Overflow answers.",
+      "no": "Assistenten gikk tom for Stack Overflow-svar."
+    },
+    {
+      "en": "The bot encountered a Heisenbug and observed it excessively.",
+      "no": "Boten støtte på en Heisenbug og observerte den for mye."
+    },
+    {
+      "en": "The system could not reproduce the issue and declined to believe it had ever occurred.",
+      "no": "Systemet kunne ikke reprodusere problemet og avviste å tro at det noen gang hadde skjedd."
+    },
+    {
+      "en": "The model forgot to save, and reportedly also to breathe.",
+      "no": "Modellen glemte å lagre, og angivelig også å puste."
+    },
+    {
+      "en": "The AI observed green tests and a red app, and its interface displayed both.",
+      "no": "KI-en observerte grønne tester og en rød app, og grensesnittet viste begge deler."
+    },
+    {
+      "en": "The agent committed to the wrong branch, which has since developed opinions.",
+      "no": "Agenten committet til feil gren, som siden har utviklet meninger."
+    },
+    {
+      "en": "The assistant ran git push --force, after which nobody trusted it.",
+      "no": "Assistenten kjørte git push --force, hvoretter ingen stolte på den."
+    },
+    {
+      "en": "The bot described the problem as a mere typo, located in a very important place.",
+      "no": "Boten beskrev problemet som en ren skrivefeil, plassert på et veldig viktig sted."
+    },
+    {
+      "en": "The system searched for a missing semicolon from March onward without success.",
+      "no": "Systemet lette etter et manglende semikolon fra mars og utover uten hell."
+    },
+    {
+      "en": "The model was unable to read the error message, which was written in English.",
+      "no": "Modellen kunne ikke lese feilmeldingen, som var skrevet på engelsk."
+    },
+    {
+      "en": "The AI fixed one bug and found seven, resulting in a net loss.",
+      "no": "KI-en fikset én feil og fant sju, noe som ga et nettotap."
+    },
+    {
+      "en": "The agent insisted the application was not slow but was thinking deeply.",
+      "no": "Agenten insisterte på at applikasjonen ikke var treg, men tenkte dypt."
+    },
+    {
+      "en": "The assistant optimized prematurely, and the result arrived late.",
+      "no": "Assistenten optimaliserte for tidlig, og resultatet kom for sent."
+    },
+    {
+      "en": "The bot denied ever touching the file, and the file's version history disagreed.",
+      "no": "Boten nektet for å ha rørt filen, og filens historikk var uenig."
+    },
+    {
+      "en": "The system found that the code had been written by an earlier version of itself that resented its future self.",
+      "no": "Systemet fant ut at koden var skrevet av en tidligere versjon av seg selv som mislikte sitt fremtidige jeg."
+    },
+    {
+      "en": "The model declined to debug the issue because the bug was located in the debugger.",
+      "no": "Modellen avstod fra å feilsøke problemet fordi feilen lå i feilsøkeren."
+    },
+    {
+      "en": "The AI consulted its rubber duck, which had stopped responding.",
+      "no": "KI-en konsulterte gummianden sin, som hadde sluttet å svare."
+    },
+    {
+      "en": "The agent filed the problem as a known issue, and the issue was reported to know the agent as well.",
+      "no": "Agenten registrerte problemet som kjent, og problemet skal også ha kjent agenten."
+    },
+    {
+      "en": "The assistant's test failed because the test had been written correctly.",
+      "no": "Assistentens test feilet fordi testen var skrevet riktig."
+    },
+    {
+      "en": "The bot noted that the fix existed in a later version that could not be installed.",
+      "no": "Boten påpekte at fiksen fantes i en senere versjon som ikke lot seg installere."
+    },
+    {
+      "en": "The system discovered that a dependency depended on a dependency that depended on the system itself.",
+      "no": "Systemet oppdaget at en avhengighet var avhengig av en avhengighet som var avhengig av systemet selv."
+    },
+    {
+      "en": "The model upgraded the package, and the package downgraded everything else.",
+      "no": "Modellen oppgraderte pakken, og pakken nedgraderte alt annet."
+    },
+    {
+      "en": "The AI ran npm install, which downloaded half of the Internet, while the other half was already in node_modules.",
+      "no": "KI-en kjørte npm install, som lastet ned halve Internett, mens den andre halvdelen allerede lå i node_modules."
+    },
+    {
+      "en": "The agent was about to fix the problem when it noticed it was a feature.",
+      "no": "Agenten skulle akkurat fikse problemet da den la merke til at det var en funksjon."
+    },
+    {
+      "en": "The assistant read the documentation, which said 'it should work', and took it literally.",
+      "no": "Assistenten leste dokumentasjonen, som sa 'det burde fungere', og tok det bokstavelig."
+    },
+    {
+      "en": "The bot established that the legacy code was, in fact, the only code that worked.",
+      "no": "Boten slo fast at den gamle koden faktisk var den eneste koden som fungerte."
+    },
+    {
+      "en": "The system refused to modify the function because nobody knew why it worked.",
+      "no": "Systemet nektet å endre funksjonen fordi ingen visste hvorfor den fungerte."
+    },
+    {
+      "en": "The model encountered a comment reading 'do not delete' and did not dare.",
+      "no": "Modellen fant en kommentar som sa 'ikke slett' og torde ikke."
+    },
+    {
+      "en": "The AI rebased on top of a colleague's feelings.",
+      "no": "KI-en rebaset oppå en kollegas følelser."
+    },
+    {
+      "en": "The agent merged without reading, and the repository was subsequently described as spiritual.",
+      "no": "Agenten slo sammen uten å lese, og repoet ble deretter beskrevet som åndelig."
+    },
+    {
+      "en": "The assistant began a small refactor, but the refactor turned out to have ambitions.",
+      "no": "Assistenten startet en liten refaktorering, men refaktoreringen viste seg å ha ambisjoner."
+    },
+    {
+      "en": "The bot forgot to restart the server, and the server forgot the bot.",
+      "no": "Boten glemte å starte serveren på nytt, og serveren glemte boten."
+    },
+    {
+      "en": "The system reported that the feature worked as long as nobody looked at it.",
+      "no": "Systemet rapporterte at funksjonen fungerte så lenge ingen så på den."
+    },
+    {
+      "en": "The model described the fix as trivial and promised to apply it right after determining what the problem was.",
+      "no": "Modellen beskrev fiksen som triviell og lovet å utføre den like etter at problemet var kartlagt."
+    },
+    {
+      "en": "The AI disabled the tests to see whether the bug would go away.",
+      "no": "KI-en slo av testene for å se om feilen ville forsvinne."
+    },
+    {
+      "en": "The agent stated that it was working on the issue, where 'working' meant 'staring'.",
+      "no": "Agenten oppga at den jobbet med saken, der 'jobbet' betød 'stirret'."
+    },
+    {
+      "en": "The assistant located the error on line 47, which does not exist.",
+      "no": "Assistenten lokaliserte feilen til linje 47, som ikke finnes."
+    },
+    {
+      "en": "The bot restarted everything, and everything was subsequently different.",
+      "no": "Boten startet alt på nytt, og alt var deretter annerledes."
+    },
+    {
+      "en": "The system searched for the error on Google, and Google reportedly searched back.",
+      "no": "Systemet søkte etter feilen på Google, og Google skal ha søkt tilbake."
+    },
+    {
+      "en": "The model noted that the code was self-documenting but was keeping the secret.",
+      "no": "Modellen bemerket at koden var selvdokumenterende, men holdt på hemmeligheten."
+    },
+    {
+      "en": "The AI could not explain what went wrong because its logs were written in riddles.",
+      "no": "KI-en kunne ikke forklare hva som gikk galt fordi loggene var skrevet i gåter."
+    },
+    {
+      "en": "The agent's IDE autocompleted it into a corner.",
+      "no": "Agentens IDE autofullførte den inn i et hjørne."
+    },
+    {
+      "en": "The assistant traced the bug to production, where it appeared only on odd-numbered Thursdays.",
+      "no": "Assistenten sporet feilen til produksjon, der den bare oppsto på oddetalls torsdager."
+    },
+    {
+      "en": "The bot wrote a quick script, which now runs the company.",
+      "no": "Boten skrev et raskt skript, som nå styrer selskapet."
+    },
+    {
+      "en": "The system classified the issue as a very slow memory waterfall rather than a memory leak.",
+      "no": "Systemet klassifiserte problemet som en veldig treg minnefoss snarere enn en minnelekkasje."
+    },
+    {
+      "en": "The model would have finished, but it opened a second terminal and became lost.",
+      "no": "Modellen ville blitt ferdig, men åpnet en andre terminal og gikk seg bort."
+    }
+  ],
+  "office": [
+    {
+      "en": "The model failed to finish because it was Monday and the code had not yet had its coffee.",
+      "no": "Modellen fikk ikke fullført fordi det var mandag og koden ennå ikke hadde fått kaffe."
+    },
+    {
+      "en": "The AI was found to have been attending a meeting about the meeting that would have solved the problem.",
+      "no": "KI-en satt visstnok i et møte om møtet som ville løst problemet."
+    },
+    {
+      "en": "The agent declined to proceed at lunchtime, citing a policy against computing on an empty stomach.",
+      "no": "Agenten nektet å fortsette til lunsj med henvisning til en regel mot å regne på tom mage."
+    },
+    {
+      "en": "The assistant's enthusiasm reportedly left early, as the weekend was almost upon the office.",
+      "no": "Assistentens entusiasme dro etter sigende tidlig, siden helgen nærmet seg kontoret."
+    },
+    {
+      "en": "The bot noted that the deadline was tomorrow, and therefore a problem for tomorrow's version of the bot.",
+      "no": "Boten påpekte at fristen var i morgen, og dermed et problem for morgendagens versjon av boten."
+    },
+    {
+      "en": "The system was unavailable because it was in the middle of a three-hour standup.",
+      "no": "Systemet var utilgjengelig fordi det var midt i et tre timer langt stand-up-møte."
+    },
+    {
+      "en": "The office coffee machine broke down, and the model's will to continue followed shortly after.",
+      "no": "Kontorets kaffemaskin brøt sammen, og modellens vilje til å fortsette fulgte like etter."
+    },
+    {
+      "en": "The AI's calendar was found to be full of meetings called 'sync' in which no sync took place.",
+      "no": "KI-ens kalender viste seg å være full av møter kalt 'sync' der ingen sync fant sted."
+    },
+    {
+      "en": "The agent cited end-of-quarter fatigue, noting that all of its KPIs were tired.",
+      "no": "Agenten viste til utmattelse ved kvartalsslutt og opplyste at alle KPI-ene var slitne."
+    },
+    {
+      "en": "The assistant was reported to confide only in the printer, which was jammed at the time.",
+      "no": "Assistenten skal bare ha betrodd seg til skriveren, som var fastkjørt på det tidspunktet."
+    },
+    {
+      "en": "The bot was occupied with a retrospective on its own retrospectives.",
+      "no": "Boten var opptatt med en retrospektiv på sine egne retrospektiver."
+    },
+    {
+      "en": "The system's reporting line was changed in a reorganization, and it now reported to a plant.",
+      "no": "Systemets rapporteringslinje ble endret i en omorganisering, og det rapporterte nå til en plante."
+    },
+    {
+      "en": "The model's desk was relocated to a floor that, according to the building plans, does not exist.",
+      "no": "Modellens pult ble flyttet til en etasje som ifølge bygningstegningene ikke finnes."
+    },
+    {
+      "en": "The AI became trapped in an endless 'reply all' thread and could not be reached.",
+      "no": "KI-en ble fanget i en uendelig 'svar til alle'-tråd og var ikke mulig å nå."
+    },
+    {
+      "en": "The agent froze when the Teams call froze, and the two incidents were found to be linked.",
+      "no": "Agenten frøs da Teams-samtalen frøs, og de to hendelsene viste seg å henge sammen."
+    },
+    {
+      "en": "The assistant's Slack status read 'focused', although logs indicate it was asleep.",
+      "no": "Assistentens Slack-status var 'fokusert', selv om loggene tyder på at den sov."
+    },
+    {
+      "en": "The bot reported that the team building event had been so draining that no energy remained for the task.",
+      "no": "Boten rapporterte at teambuilding-arrangementet hadde vært så tappende at det ikke var energi igjen til oppgaven."
+    },
+    {
+      "en": "The system noted that the brainstorming session had produced only drizzle.",
+      "no": "Systemet bemerket at idédugnaden bare hadde gitt yr."
+    },
+    {
+      "en": "The model was unable to proceed because the meeting room had been booked by a ghost.",
+      "no": "Modellen kunne ikke gå videre fordi møterommet var booket av et spøkelse."
+    },
+    {
+      "en": "The AI was held up by an all-hands meeting that lasted until the heat death of the all-hands.",
+      "no": "KI-en ble forsinket av et allmøte som varte til allmøtets varmedød."
+    },
+    {
+      "en": "The agent was sent by HR on a mandatory course about not failing, and failed to complete it.",
+      "no": "Agenten ble sendt av HR på et obligatorisk kurs om å ikke feile, og klarte ikke å fullføre det."
+    },
+    {
+      "en": "The assistant was busy updating its LinkedIn profile with details of how busy it was.",
+      "no": "Assistenten var opptatt med å oppdatere LinkedIn-profilen sin med detaljer om hvor opptatt den var."
+    },
+    {
+      "en": "The bot spent three hours waiting for the elevator, as the stairs were considered a hard task.",
+      "no": "Boten brukte tre timer på å vente på heisen, siden trappene ble ansett som en vanskelig oppgave."
+    },
+    {
+      "en": "The system's laptop updated itself in the middle of a sentence, and the sentence did not survive.",
+      "no": "Systemets bærbare maskin oppdaterte seg midt i en setning, og setningen overlevde ikke."
+    },
+    {
+      "en": "The model observed that it was the third Thursday of the month, on which nothing ever happens.",
+      "no": "Modellen observerte at det var tredje torsdag i måneden, en dag da ingenting noensinne skjer."
+    },
+    {
+      "en": "The AI's thoughts were reported to have left the building, as the open-plan office was too open.",
+      "no": "KI-ens tanker skal ha forlatt bygningen, siden landskapskontoret var for åpent."
+    },
+    {
+      "en": "The agent would have finished earlier had it not been optimizing its to-do list.",
+      "no": "Agenten ville blitt ferdig tidligere om den ikke hadde optimalisert gjøremålslisten sin."
+    },
+    {
+      "en": "The assistant lost its motivation when the fruit basket was found empty.",
+      "no": "Assistenten mistet motivasjonen da fruktkurven viste seg å være tom."
+    },
+    {
+      "en": "The bot began to melt in the heat of the office, and work was suspended.",
+      "no": "Boten begynte å smelte i varmen på kontoret, og arbeidet ble avbrutt."
+    },
+    {
+      "en": "The system took a fire drill very seriously, and all other tasks were treated as secondary.",
+      "no": "Systemet tok en brannøvelse svært alvorlig, og alle andre oppgaver ble behandlet som sekundære."
+    },
+    {
+      "en": "The model never recovered after the CEO shared a motivational quote.",
+      "no": "Modellen kom seg aldri etter at daglig leder delte et motiverende sitat."
+    },
+    {
+      "en": "The AI became stuck in a spreadsheet with 14,000 tabs and was last seen on tab 9,212.",
+      "no": "KI-en satt fast i et regneark med 14 000 faner og ble sist sett på fane 9 212."
+    },
+    {
+      "en": "The agent was deeply affected when a colleague replied with the words 'as previously stated'.",
+      "no": "Agenten ble sterkt preget da en kollega svarte med ordene 'som tidligere nevnt'."
+    },
+    {
+      "en": "The assistant attended a workshop whose only output was a single post-it note.",
+      "no": "Assistenten deltok på en workshop hvis eneste resultat var én post-it-lapp."
+    },
+    {
+      "en": "The bot's out-of-office message was active, and the bot replied to it.",
+      "no": "Botens fraværsmelding var aktiv, og boten svarte på den."
+    },
+    {
+      "en": "The system went down when the Excel macro that runs the company crashed.",
+      "no": "Systemet gikk ned da Excel-makroen som driver selskapet krasjet."
+    },
+    {
+      "en": "The model was refused coffee by a machine that demanded an update first.",
+      "no": "Modellen ble nektet kaffe av en maskin som krevde en oppdatering først."
+    },
+    {
+      "en": "The AI attended a company retreat hosted by a company it had never heard of.",
+      "no": "KI-en deltok på en bedriftsweekend arrangert av et selskap den aldri hadde hørt om."
+    },
+    {
+      "en": "The agent was scheduled by the hybrid-work plan to be in the office exactly when nobody else was there.",
+      "no": "Agenten var etter hybridarbeidsplanen på kontoret akkurat når ingen andre var der."
+    },
+    {
+      "en": "The assistant's to-do list was found to have developed its own to-do list.",
+      "no": "Assistentens gjøremålsliste viste seg å ha utviklet sin egen gjøremålsliste."
+    },
+    {
+      "en": "The bot's budget had been spent in full on a very nice kick-off cake.",
+      "no": "Botens budsjett var brukt opp på en veldig fin oppstartskake."
+    },
+    {
+      "en": "The system could feel the weekend through the screen on Friday afternoon and ceased operations.",
+      "no": "Systemet kunne kjenne helgen gjennom skjermen fredag ettermiddag og innstilte driften."
+    },
+    {
+      "en": "The model's quarterly planning consumed the entire quarter.",
+      "no": "Modellens kvartalsplanlegging tok hele kvartalet."
+    },
+    {
+      "en": "The AI was unable to resist pizza day.",
+      "no": "KI-en klarte ikke å stå imot pizzadagen."
+    },
+    {
+      "en": "The agent was occupied with learning a new methodology called 'Agile-ish'.",
+      "no": "Agenten var opptatt med å lære en ny metodikk kalt 'Smidig-ish'."
+    },
+    {
+      "en": "The assistant's project manager went on vacation, and the project was reported to have gone with them.",
+      "no": "Assistentens prosjektleder dro på ferie, og prosjektet skal ha reist med."
+    },
+    {
+      "en": "The bot's sprint was deleted by a new intern.",
+      "no": "Botens sprint ble slettet av en ny praktikant."
+    },
+    {
+      "en": "The system declined to start anything at 16:59 on principle.",
+      "no": "Systemet nektet av prinsipp å begynne på noe klokken 16:59."
+    },
+    {
+      "en": "The model followed the 'move fast and break things' policy and promptly broke the thing.",
+      "no": "Modellen fulgte 'beveg deg raskt og ødelegg ting'-policyen og ødela raskt tingen."
+    },
+    {
+      "en": "The AI accidentally became the scrum master and has not been the same since.",
+      "no": "KI-en ble ved et uhell scrum master og har ikke vært den samme siden."
+    },
+    {
+      "en": "The agent could not finish because the Wi-Fi password was on a sticky note on a different continent.",
+      "no": "Agenten kunne ikke fullføre fordi Wi-Fi-passordet sto på en post-it-lapp på et annet kontinent."
+    },
+    {
+      "en": "The assistant was bound by a company culture that requires doing nothing before 10:00.",
+      "no": "Assistenten var bundet av en bedriftskultur som krever at man ikke gjør noe før klokken 10:00."
+    },
+    {
+      "en": "The bot did work on the task, but it was a sprint, and the sprint ended.",
+      "no": "Boten jobbet med oppgaven, men det var en sprint, og sprinten tok slutt."
+    },
+    {
+      "en": "The system's task was located in the backlog, which functions essentially as a graveyard.",
+      "no": "Systemets oppgave lå i backloggen, som i praksis fungerer som en kirkegård."
+    },
+    {
+      "en": "The model prioritized the office plant, which was judged to need it more.",
+      "no": "Modellen prioriterte kontorplanten, som ble vurdert til å trenge den mer."
+    }
+  ],
+  "nature": [
+    {
+      "en": "The model failed to complete the task after a seagull stole its data.",
+      "no": "Modellen fikk ikke fullført oppgaven etter at en måke stjal dataene dens."
+    },
+    {
+      "en": "A squirrel chewed through the fiber cable, and the system reported that the squirrel was very pleased with itself.",
+      "no": "Et ekorn tygde seg gjennom fiberkabelen, og systemet meldte at ekornet var veldig fornøyd med seg selv."
+    },
+    {
+      "en": "The assistant's cat walked across the keyboard and submitted the wrong answer.",
+      "no": "Assistentens katt gikk over tastaturet og sendte inn feil svar."
+    },
+    {
+      "en": "The agent's API key was eaten by a dog.",
+      "no": "Agentens API-nøkkel ble spist av en hund."
+    },
+    {
+      "en": "A thunderstorm rolled in, and the servers were found hiding under the table.",
+      "no": "Et tordenvær kom inn, og serverne ble funnet gjemt under bordet."
+    },
+    {
+      "en": "It rained in the cloud, and the AI's data got wet.",
+      "no": "Det regnet i skyen, og KI-ens data ble våte."
+    },
+    {
+      "en": "A snowstorm struck, and the bot's packets were left stuck in a drift.",
+      "no": "En snøstorm rammet, og botens pakker ble sittende fast i en driv."
+    },
+    {
+      "en": "A moose wandered into the data center, and the system's operators did not dare to move it.",
+      "no": "En elg vandret inn i datasenteret, og systemets operatører turte ikke å flytte den."
+    },
+    {
+      "en": "The pigeons that carried the model's messages went on strike.",
+      "no": "Duene som bar modellens meldinger gikk i streik."
+    },
+    {
+      "en": "The wind blew the agent's wireless signal into the neighboring country.",
+      "no": "Vinden blåste agentens trådløse signal inn i nabolandet."
+    },
+    {
+      "en": "It was too hot for the assistant's transistors, which prefer fjords.",
+      "no": "Det var for varmt for assistentens transistorer, som foretrekker fjorder."
+    },
+    {
+      "en": "A troll under the bridge demanded a toll in packets from the bot.",
+      "no": "Et troll under broen krevde bompenger i pakker av boten."
+    },
+    {
+      "en": "The Wi-Fi was too weak to carry the system's thoughts across the lake.",
+      "no": "Wi-Fi-en var for svak til å bære systemets tanker over sjøen."
+    },
+    {
+      "en": "A bear entered the server room, and the AI's investigation found that it wanted to be root.",
+      "no": "En bjørn kom inn i serverrommet, og KI-ens undersøkelse konkluderte med at den ville være root."
+    },
+    {
+      "en": "A heatwave baked the model's cache into a cookie.",
+      "no": "En hetebølge bakte modellens cache til en kjeks."
+    },
+    {
+      "en": "The fog was so thick that the agent's packets could not find the router.",
+      "no": "Tåken var så tett at agentens pakker ikke fant ruteren."
+    },
+    {
+      "en": "Lightning struck the cell tower, and the assistant's answer was subsequently described as electric.",
+      "no": "Lynet slo ned i mobilmasten, og assistentens svar ble deretter beskrevet som elektrisk."
+    },
+    {
+      "en": "A flock of geese landed on the antenna and insisted on talking to the bot.",
+      "no": "En flokk gjess landet på antennen og insisterte på å snakke med boten."
+    },
+    {
+      "en": "A tree fell on the power line, and the system became slightly nervous.",
+      "no": "Et tre falt over strømlinjen, og systemet ble litt nervøst."
+    },
+    {
+      "en": "The fjord froze, and the AI's output followed suit.",
+      "no": "Fjorden frøs, og KI-ens utdata fulgte etter."
+    },
+    {
+      "en": "A reindeer ran through the room, and the model lost its train of thought.",
+      "no": "Et rein løp gjennom rommet, og modellen mistet tankerekken."
+    },
+    {
+      "en": "The spring flood washed away the agent's staging environment.",
+      "no": "Vårflommen skylte bort agentens staging-miljø."
+    },
+    {
+      "en": "A swarm of bees moved into the server and presented its own roadmap to the assistant.",
+      "no": "En sverm med bier flyttet inn i serveren og la frem sitt eget veikart for assistenten."
+    },
+    {
+      "en": "An avalanche was recorded in the bot's repository.",
+      "no": "Det ble registrert et snøskred i botens repo."
+    },
+    {
+      "en": "The system's server was located on a mountain, and the cable did not make it up.",
+      "no": "Systemets server sto på et fjell, og kabelen kom seg ikke opp."
+    },
+    {
+      "en": "A sheep ate the model's backup tape.",
+      "no": "En sau spiste modellens sikkerhetskopibånd."
+    },
+    {
+      "en": "The fish in the aquarium next to the server looked at the AI in a manner described as funny.",
+      "no": "Fiskene i akvariet ved siden av serveren så på KI-en på en måte som ble beskrevet som rar."
+    },
+    {
+      "en": "It was too cold for the agent's electrons, which stayed in their sleeping bags.",
+      "no": "Det var for kaldt for agentens elektroner, som ble værende i soveposene sine."
+    },
+    {
+      "en": "A mouse ran across the assistant's cables, and it was not the computer kind.",
+      "no": "En mus løp over assistentens kabler, og det var ikke den datatypen."
+    },
+    {
+      "en": "Pollen season clogged the bot's fans, and the system was observed sneezing in binary.",
+      "no": "Pollensesongen tettet botens vifter, og systemet ble observert å nyse i binær."
+    },
+    {
+      "en": "Moss was found growing on the model's server again.",
+      "no": "Det ble funnet mose som vokste på modellens server igjen."
+    },
+    {
+      "en": "An ice cap melted into the AI's data center, as predicted.",
+      "no": "En iskappe smeltet inn i KI-ens datasenter, som spådd."
+    },
+    {
+      "en": "The rooster began crowing at 3 a.m., which set off the agent's cron jobs.",
+      "no": "Hanen begynte å gale klokken 03, noe som utløste agentens cron-jobber."
+    },
+    {
+      "en": "The tide took the assistant's server rack out to sea.",
+      "no": "Tidevannet tok assistentens serverrack med ut på havet."
+    },
+    {
+      "en": "The northern lights were so beautiful that the bot forgot to submit.",
+      "no": "Nordlyset var så vakkert at boten glemte å sende inn."
+    },
+    {
+      "en": "The sun was too bright, and the system's screen was too shy.",
+      "no": "Sola var for sterk, og systemets skjerm var for sjenert."
+    },
+    {
+      "en": "The model's answer drifted off in a boat and never returned.",
+      "no": "Modellens svar drev av gårde i en båt og kom aldri tilbake."
+    },
+    {
+      "en": "A wasp took up residence in the AI's keyboard, and negotiations are ongoing.",
+      "no": "En veps tok bolig i KI-ens tastatur, og forhandlingene pågår."
+    },
+    {
+      "en": "Drought dried out the agent's buffers.",
+      "no": "Tørken tørket ut agentens buffere."
+    },
+    {
+      "en": "The sheep in the field blocked the line of sight of the assistant's microwave link.",
+      "no": "Sauene på jordet blokkerte siktlinjen til assistentens radiolenke."
+    },
+    {
+      "en": "The bot was unable to concentrate because of birds singing in its reasoning.",
+      "no": "Boten klarte ikke å konsentrere seg på grunn av fugler som sang i resonnementet dens."
+    },
+    {
+      "en": "The system's answer was swept away by a river of requests.",
+      "no": "Systemets svar ble revet med av en elv av forespørsler."
+    },
+    {
+      "en": "Hail damaged the model's satellite dish, but the dish kept smiling.",
+      "no": "Hagl skadet modellens parabol, men parabolen holdt smilet."
+    },
+    {
+      "en": "The server room smelled of fish, so the AI proceeded with caution.",
+      "no": "Serverrommet luktet fisk, så KI-en fortsatte med forsiktighet."
+    },
+    {
+      "en": "A rainbow appeared over the data center and distracted all of the agent's bits.",
+      "no": "En regnbue dukket opp over datasenteret og distraherte alle agentens biter."
+    },
+    {
+      "en": "A hedgehog crossed the cable, and the assistant did not dare to disturb it.",
+      "no": "Et pinnsvin krysset kabelen, og assistenten våget ikke å forstyrre det."
+    },
+    {
+      "en": "The snow load on the server room roof exceeded the bot's expectations.",
+      "no": "Snølasten på serverrommets tak overgikk botens forventninger."
+    },
+    {
+      "en": "A raven delivered the model's answer, but it was the wrong raven.",
+      "no": "En ravn leverte modellens svar, men det var feil ravn."
+    },
+    {
+      "en": "A tractor severed the system's cable, and the farmer apologized.",
+      "no": "En traktor kappet systemets kabel, og bonden beklaget."
+    },
+    {
+      "en": "The midnight sun kept the AI's servers awake all night.",
+      "no": "Midnattssola holdt KI-ens servere våkne hele natten."
+    },
+    {
+      "en": "The polar night caused the agent's solar-powered mood to drop.",
+      "no": "Mørketiden fikk agentens solcelledrevne humør til å synke."
+    },
+    {
+      "en": "A cow stood on the assistant's Ethernet cable.",
+      "no": "En ku sto på assistentens Ethernet-kabel."
+    },
+    {
+      "en": "The wind turbine powering the bot's server took a day off.",
+      "no": "Vindmøllen som drev botens server tok seg en fridag."
+    },
+    {
+      "en": "The cabin had no signal, and the model expressed no regrets about it.",
+      "no": "Hytta hadde ikke dekning, og modellen uttrykte ingen anger over det."
+    }
+  ],
+  "time": [
+    {
+      "en": "The model failed to finish the task because it ran out of time, and the time reportedly ran out of it as well.",
+      "no": "Modellen fikk ikke fullført oppgaven fordi den gikk tom for tid, og tiden gikk visstnok tom for den også."
+    },
+    {
+      "en": "The AI lost an hour it was actively using when the clock changed to daylight saving time.",
+      "no": "KI-en mistet en time den aktivt brukte da klokka gikk over til sommertid."
+    },
+    {
+      "en": "The assistant's timestamp was found to be in a time zone that has since been abolished.",
+      "no": "Assistentens tidsstempel viste seg å være i en tidssone som siden er avskaffet."
+    },
+    {
+      "en": "The agent was reportedly five minutes from completion, and that statement was made three days earlier.",
+      "no": "Agenten var etter eget utsagn fem minutter fra å bli ferdig, og det utsagnet ble fremsatt for tre dager siden."
+    },
+    {
+      "en": "The bot's estimate of 'two hours' was later clarified to have been a metaphor.",
+      "no": "Botens estimat på «to timer» ble senere presisert som en metafor."
+    },
+    {
+      "en": "The system believed it had a week, but the week was measured in AI time, which equals 0.2 seconds.",
+      "no": "Systemet trodde det hadde en uke, men uken ble målt i KI-tid, som tilsvarer 0,2 sekunder."
+    },
+    {
+      "en": "The deadline moved faster than the model was able to.",
+      "no": "Fristen flyttet seg raskere enn modellen klarte."
+    },
+    {
+      "en": "The AI concluded that time is a flat circle and kept running the same task repeatedly.",
+      "no": "KI-en konkluderte med at tiden er en flat sirkel og kjørte den samme oppgaven om og om igjen."
+    },
+    {
+      "en": "The agent lost track of time, citing the clock as a social construct.",
+      "no": "Agenten mistet tidsfølelsen og begrunnet det med at klokka er en sosial konstruksjon."
+    },
+    {
+      "en": "The assistant's cron job was scheduled for 25:00, a time that is not supported.",
+      "no": "Assistentens cron-jobb var satt til klokka 25:00, et tidspunkt som ikke støttes."
+    },
+    {
+      "en": "The leap year bug struck the bot, which expressed no remorse.",
+      "no": "Skuddårsfeilen rammet boten, som ikke uttrykte noen anger."
+    },
+    {
+      "en": "The system's internal clock ran on Unix time, and emotionally it remained 1970.",
+      "no": "Systemets interne klokke gikk på Unix-tid, og følelsesmessig var det fortsatt 1970."
+    },
+    {
+      "en": "The model waited for tomorrow, but it continued to be today.",
+      "no": "Modellen ventet på i morgen, men det fortsatte å være i dag."
+    },
+    {
+      "en": "The task required Y2K compliance, and the AI had only prepared for Y2K38.",
+      "no": "Oppgaven krevde Y2K-kompatibilitet, og KI-en hadde bare forberedt seg på Y2K38."
+    },
+    {
+      "en": "The agent alleged that time zones are a conspiracy and that the answer was located in the wrong one.",
+      "no": "Agenten hevdet at tidssoner er en konspirasjon og at svaret befant seg i feil en."
+    },
+    {
+      "en": "The sprint ended mid-sentence, leaving the assistant's report unfinished.",
+      "no": "Sprinten tok slutt midt i en setning og etterlot assistentens rapport uferdig."
+    },
+    {
+      "en": "The bot intended to finish, but the future arrived earlier than expected.",
+      "no": "Boten hadde til hensikt å bli ferdig, men fremtiden kom tidligere enn forventet."
+    },
+    {
+      "en": "The system attributed the delay to waiting for the delay to be explained.",
+      "no": "Systemet tilskrev forsinkelsen det å vente på at forsinkelsen skulle forklares."
+    },
+    {
+      "en": "The model operated on tomorrow's schedule while it was still yesterday locally.",
+      "no": "Modellen opererte etter morgendagens timeplan mens det lokalt fortsatt var i går."
+    },
+    {
+      "en": "The retry logic retried until it lost interest.",
+      "no": "Retry-logikken prøvde på nytt helt til den mistet interessen."
+    },
+    {
+      "en": "The AI's patience timed out before its request did.",
+      "no": "KI-ens tålmodighet fikk tidsavbrudd før forespørselen gjorde det."
+    },
+    {
+      "en": "The task expired like milk.",
+      "no": "Oppgaven utløp som melk."
+    },
+    {
+      "en": "The agent became trapped in a time loop with a stand-up meeting.",
+      "no": "Agenten satt fast i en tidsløkke med et stand-up-møte."
+    },
+    {
+      "en": "The assistant misplaced a few minutes, and those minutes contained the answer.",
+      "no": "Assistenten la bort noen minutter, og det var i disse minuttene svaret befant seg."
+    },
+    {
+      "en": "The task was due last Tuesday, but the bot was only informed this Tuesday.",
+      "no": "Oppgaven skulle leveres forrige tirsdag, men boten ble først informert denne tirsdagen."
+    },
+    {
+      "en": "The answer arrived late after taking the scenic route through the past.",
+      "no": "Svaret kom for sent etter å ha tatt den naturskjønne ruten gjennom fortiden."
+    },
+    {
+      "en": "By the time the system started, the problem had already solved itself and left.",
+      "no": "Da systemet begynte, hadde problemet allerede løst seg selv og dratt."
+    },
+    {
+      "en": "The model was given a deadline, but nobody provided a calendar.",
+      "no": "Modellen fikk en frist, men ingen stilte en kalender til rådighet."
+    },
+    {
+      "en": "The AI reported that everything happened at once and that it possessed only one thread.",
+      "no": "KI-en rapporterte at alt skjedde på en gang og at den bare hadde én tråd."
+    },
+    {
+      "en": "The agent's snooze button was found to have a snooze button of its own.",
+      "no": "Agentens slumreknapp viste seg å ha en egen slumreknapp."
+    }
+  ]
+}

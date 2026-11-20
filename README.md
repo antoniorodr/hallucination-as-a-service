@@ -2,11 +2,11 @@
 
 ## ℹ️ About
 
-Ever needed a convincing answer that sounds absolutely correct but is completely made up?
+Ever needed a convincing excuse for why an AI couldn't complete a task?
 
-This tiny API generates random, creative, and confidently incorrect explanations, facts, and technical answers, perfect for testing your skepticism, confusing your colleagues, or demonstrating the fascinating art of AI hallucination.
+This tiny API generates random, creative, and sometimes ridiculous excuses explaining why an AI couldn't get the job done. Perfect for testing your patience, confusing your colleagues, or demonstrating the fascinating art of AI excuse-making.
 
-Built for developers, misinformation, and confidently wrong answers.
+Built for developers, failed requests, and questionable explanations.
 
 ## 🚀 API Usage
 

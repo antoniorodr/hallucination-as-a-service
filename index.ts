@@ -18,7 +18,7 @@ const excuses: Excuses = JSON.parse(fs.readFileSync("./excuses.json", "utf-8"));
 const limiter = rateLimit({
   windowMs: 60 * 1000, // 1 minute
   limit: 10,
-  message: "Too many requests from this IP, please try again after a minute.",
+  message: { error: "Too many requests from this IP, please try again after a minute." },
 });
 
 app.use(limiter);

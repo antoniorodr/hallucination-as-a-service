@@ -25,9 +25,10 @@ app.use(limiter);
 
 app.get("/hallucination", (req, res) => {
   const all = Object.values(excuses).flat();
+  const types = Object.keys(excuses);
   const isLang = (v: unknown): v is Lang => v === "en" || v === "no";
   const language = isLang(req.query.lang) ? req.query.lang : "en";
-  const excuseType = req.query.type as string | undefined;
+  const excuseType = (req.query.type as string | undefined)?.toLowerCase();
   const randomExcuse = all[Math.floor(Math.random() * all.length)];
 
   if (!isLang(language)) {
@@ -41,7 +42,7 @@ app.get("/hallucination", (req, res) => {
   if (excuseType) {
     const filteredExcuses = excuses[excuseType];
     if (!filteredExcuses) {
-      return res.status(400).json({ error: "Invalid excuse type." });
+      return res.status(400).json({ error: "Invalid excuse type. Use one of the following: " + types.join(", ") });
     }
     const randomFilteredExcuse = filteredExcuses[Math.floor(Math.random() * filteredExcuses.length)];
     return res.json({ excuse: randomFilteredExcuse[language] });
